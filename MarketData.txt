@@ -660,11 +660,11 @@ Monsters/Monster_scaratar diamonds=3500
 Monsters/Monster_flootfly diamonds=75
 Monsters/Monster_furcorn diamonds=125
 Monsters/Monster_rootitoot diamonds=150
-Monsters/Monster_trox Vortex=3
+Monsters/Monster_trox
 Monsters/Monster_spurrit_desert Vortex=4
 Monsters/Monster_bisonorus Vortex=1
 Monsters/Monster_floogull Vortex=6
-Monsters/Monster_reedling Vortex=3
+Monsters/Monster_reedling
 Monsters/Monster_drummidary
 -
 decorations:
