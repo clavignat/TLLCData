@@ -2140,4 +2140,17 @@ Bambuzzel
 Bloppity
 Cameron
 Courtney
+;
+Monsters/Monster_drummidary_young
+Boom Boom
+Brackeeya
+Decca
+Jambae
+Malaco
+Piston
+Pleo
+Trykee
+Wylson
+;
+
 

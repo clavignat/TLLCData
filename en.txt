@@ -682,6 +682,9 @@ Structures/Structure_masher_bio=This is the Masher! Stick your items in and watc
 Monsters/Monster_boskus_young=Young Boskus
 Monsters/Monster_boskus_young_bio=Young Boskus bio
 
+Monsters/Monster_drummidary_young=Young Drummidary
+Monsters/Monster_drummidary_young_bio=Young Drummidary bio
+
 Monsters/Monster_toejammer_undof=<ref>Monsters/Monster_toejammer
 Monsters/Monster_toejammer_undof_bio=While Toe Jammers may appear fragile, these rubbery Water elementals are very tough. Toe Jammers sing of liquid wonders: deep sea leviathans, crashing surf, flooded basements, and bubble tea!
 

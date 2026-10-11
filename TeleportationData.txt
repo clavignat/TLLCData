@@ -81,6 +81,7 @@ Monsters/Monster_gloptic_young=Monsters/Monster_gloptic 7
 Monsters/Monster_scaratar=Monsters/Monster_scaratar 1
 Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 7
 Monsters/Monster_rootitoot_young=Monsters/Monster_rootitoot 7
+Monsters/Monster_drummidary_young=Monsters/Monster_drummidary 7
 Monsters/Monster_rootitoot= 0
 Monsters/Monster_flootfly= 0
 Monsters/Monster_spurrit_desert= 0
