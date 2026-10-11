@@ -2134,3 +2134,10 @@ Swayskull
 Trappjaw
 Underbight
 Ziplyne
+;
+Monsters/Monster_boskus_young
+Bambuzzel
+Bloppity
+Cameron
+Courtney
+
