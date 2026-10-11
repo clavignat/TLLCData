@@ -2,13 +2,15 @@
 Raw Zebra
 
 <Title>str_credits_main
-ThePixelMoon
+Clavi E. Gnat
 
 <Title>str_credits_art
 AstralMSM
 Danudaeye
 Skrepmaks
 Gubashlepp
+ShadowMSM
+Falak
 
 <Title>str_credits_anim
 Hypnoooooo
@@ -20,6 +22,7 @@ Markusima.msm
 Danudaeye
 lilsayox3
 mibuxx
+Falak
 
 <Title>str_credits_thanks
 Silly Peashooter
@@ -32,6 +35,9 @@ Loohcas
 Zewic Zewcat
 Pizzapeperoni
 Nerxk
+kryankovich
+Kue/Larp Zebra
+lenchitos
 егорегорегорегорегорегорегорегорегорегорегорегор
 
 
