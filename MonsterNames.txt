@@ -908,7 +908,7 @@ Skiliton
 Vorb
 Zimbelstern
 ;
-Monsters/Monster_boskus
+Monsters/Monster_boskus_young,Monsters/Monster_boskus
 Bambuzzel
 Bloppity
 Cameron
@@ -1410,7 +1410,7 @@ Sprigg
 Twiglit
 Tyke
 ;
-Monsters/Monster_reedling_young,Monsters/Monster_reedling_young_singer
+Monsters/Monster_reedling_young,Monsters/Monster_reedling_young_singer,Monsters/Monster_reedling
 Creeech
 Deftoosnark
 Flitt
@@ -1637,7 +1637,7 @@ Aurolga
 Monsters/Special/Monster_melochness
 Maex
 ;
-Monsters/Monster_dipster_1,Monsters/Monster_dipster_2,Monsters/Monster_dipster_3,Monsters/Monster_dipster_4,Monsters/Monster_dipster_5,Monsters/Monster_dipster_6,Monsters/Monster_dipster_7
+Monsters/Monster_dipster_1,Monsters/Monster_dipster_2,Monsters/Monster_dipster_3,Monsters/Monster_dipster_4,Monsters/Monster_dipster_5,Monsters/Monster_dipster_6,Monsters/Monster_dipster_7,Monsters/Monster_dipster_1_new,Monsters/Monster_dipster_2_new,Monsters/Monster_dipster_3_new,Monsters/Monster_dipster_4_new,Monsters/Monster_dipster_5_new,Monsters/Monster_dipster_6_new,Monsters/Monster_dipster_7_new
 Dipper
 Underling
 Grundo
@@ -1764,7 +1764,7 @@ Monsters/Monster_potbellyGM
 Parappa
 Pearl
 ;
-Monsters/Monster_cybop
+Monsters/Monster_cybop_young,Monsters/Monster_cybop
 Cybog
 Eternia
 He-Mon
@@ -2090,24 +2090,7 @@ Miles
 Moreez
 Rudolph
 ;
-Monsters/Monster_reedling
-Creeech
-Deftoosnark
-Flitt
-Fwoot
-Itchy
-Izit
-Lókunn
-Plootuft
-Rddahtoot
-Rhootoot
-Sloo
-Slump
-Von
-Weedle
-Yardling
-;
-Monsters/Monster_drummidary
+Monsters/Monster_drummidary_young,Monsters/Monster_drummidary
 Boom Boom
 Brackeeya
 Decca
@@ -2123,34 +2106,6 @@ Twiddle
 Tweedy
 Seethru
 Clingy
-;
-Monsters/Monster_cybop_young
-Cybog
-Eternia
-He-Mon
-Hewk
-Spade
-Swayskull
-Trappjaw
-Underbight
-Ziplyne
-;
-Monsters/Monster_boskus_young
-Bambuzzel
-Bloppity
-Cameron
-Courtney
-;
-Monsters/Monster_drummidary_young
-Boom Boom
-Brackeeya
-Decca
-Jambae
-Malaco
-Piston
-Pleo
-Trykee
-Wylson
 ;
 
 
