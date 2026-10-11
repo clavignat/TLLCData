@@ -476,7 +476,7 @@ Monsters/Monster_synthfly diamonds=230 organ@plant@water@fire@psychic 14400 10 c
 
 Monsters/Monster_banno_new diamonds=100 air@water@faerie 46800 30 coins=1@72@coins=260 Magical banno,banno 6 0
 
-Monsters/Monster_hyehehe diamonds=630 mythical-o 28800 30 coins=2@60@coins=120 Mythical hyehehe,hyehehe 6 0
+Monsters/Monster_hyehehe diamonds=630 mythical 28800 30 coins=2@60@coins=120 Mythical hyehehe,hyehehe 6 0
 
 Monsters/Monster_tweedleGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma tweedleGM,tweedleGM 0 0
 
