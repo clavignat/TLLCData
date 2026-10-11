@@ -679,6 +679,9 @@ Structures/Structure_timemachine_bio=This strange and peculiar structure can war
 Structures/Structure_masher=Masher
 Structures/Structure_masher_bio=This is the Masher! Stick your items in and watch them be processed into delicious snacks for the youngsters!
 
+Monsters/Monster_boskus_young=Young Boskus
+Monsters/Monster_boskus_young_bio=Young Boskus bio
+
 Monsters/Monster_toejammer_undof=<ref>Monsters/Monster_toejammer
 Monsters/Monster_toejammer_undof_bio=While Toe Jammers may appear fragile, these rubbery Water elementals are very tough. Toe Jammers sing of liquid wonders: deep sea leviathans, crashing surf, flooded basements, and bubble tea!
 
