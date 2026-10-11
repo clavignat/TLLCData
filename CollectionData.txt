@@ -55,6 +55,11 @@ Monsters/Monster_spunge_young
 Monsters/Monster_bridgit_young
 Monsters/Monster_frondley_young
 Monsters/Monster_gloptic_young
+Monsters/Monster_drummidary_young
+
+Monsters/Monster_cybop_young
+Monsters/Monster_boskus_young
+Monsters/Monster_trox_young
 
 Monsters/Monster_punkleton_young
 Monsters/Monster_yool_young
@@ -85,6 +90,7 @@ Monsters/Knott_1
 Monsters/Knott_2
 Monsters/Knott_3
 Monsters/Knott_4
+Monsters/Knott_11
 Monsters/Knott_5
 Monsters/Knott_6
 Monsters/Knott_7
