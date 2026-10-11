@@ -178,6 +178,7 @@ Monsters/Knott_9_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,sta
 Monsters/Knott_10_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_10_rare 0 0
 Monsters/Knott_special_rare diamonds=2000 knottshurr 0 10000000 diamonds=5,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_special_rare 0 0
 
+Monsters/Knott_11 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_11 0 0
 
 Monsters/Monster_maulch coins=25000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,maulch 0 3
 

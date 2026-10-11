@@ -282,6 +282,7 @@ Monsters/Knott_1
 Monsters/Knott_2
 Monsters/Knott_3
 Monsters/Knott_4
+Monsters/Knott_11
 Monsters/Knott_5
 Monsters/Knott_6
 Monsters/Knott_7

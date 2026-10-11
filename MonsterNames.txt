@@ -794,7 +794,7 @@ Sir Smunk
 Zapa
 Jackno-Lantern
 ;
-Monsters/Monster_scaratar,,Monsters/Scaratar
+Monsters/Monster_scaratar
 Beetar
 Clawb
 Drigal
@@ -809,7 +809,7 @@ Toxtrum
 Vizend
 Zither
 ;
-Monsters/Monster_loodvigg,Monsters/Loodvigg
+Monsters/Monster_loodvigg
 Botias
 Crinnerk
 Deegz
@@ -1331,7 +1331,7 @@ Vector
 Hould
 Veeda
 ;
-Monsters/Knott_4
+Monsters/Knott_4,Monsters/Knott_11
 PeEk
 Scream
 ShoOout

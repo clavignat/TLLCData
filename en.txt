@@ -523,6 +523,9 @@ Monsters/Knott_10_rare_bio=Rare Bel'yawn Zirro bio
 Monsters/Knott_special_rare=Chimblickle
 Monsters/Knott_special_rare_bio=Chimblickle bio
 
+Monsters/Knott_11=Haivv
+Monsters/Knott_11_bio=Haivv bio
+
 Monsters/Monster_handmond=Handmond
 Monsters/Monster_handmond_bio=Handmond bio
 
