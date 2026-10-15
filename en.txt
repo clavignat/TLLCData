@@ -1328,6 +1328,8 @@ Monsters/Monster_pummelGM=Wabdabuana
 Monsters/Monster_pummelGM_bio=Wadabuana bio
 Monsters/Monster_tabicrab=Tabicrab
 Monsters/Monster_tabicrab_bio=Tabicrab bio
+Monsters/Monster_nogginGM=Ribbeat
+Monsters/Monster_nogginGM_bio=Ribbeat bio
 
 str_island_Minigame_YapLeap=Yap Leap
 
