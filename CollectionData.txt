@@ -258,6 +258,7 @@ Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
 Monsters/Monster_tabicrab
 Monsters/Monster_tweedleGM
+Monsters/Monster_nogginGM
 ;
 EgyptPipes:
 Monsters/Bonapetite
@@ -305,3 +306,10 @@ Monsters/Monster_bowgart
 Monsters/Monster_maw
 Monsters/Monster_potbelly
 Monsters/Monster_varrow
+;
+Bay:
+Monsters/Monster_jawewolf
+Monsters/Monster_stitchekeys
+Monsters/Monster_skrip
+Monsters/Monster_sexophone
+Monsters/Monster_moldbell

@@ -1399,3 +1399,20 @@ Monsters/Monster_ghazt_dream_bio=Dishonest Distinct Delight Distant District
 
 Monsters/VOIDCORN_dream=<color="red">V O I D C O R N</color>
 Monsters/VOIDCORN_dream_bio=<color="red">YOUR MISSING YOOL</color>
+
+#BAY#
+
+Monsters/Monster_jawewolf=Jawewolf
+Monsters/Monster_jawewolf_bio=Jawewolf bio
+
+Monsters/Monster_stitchekeys=Stitchekeys
+Monsters/Monster_stitchekeys_bio=Stitchekeys bio
+
+Monsters/Monster_skrip=Skrip
+Monsters/Monster_skrip_bio=Skrip bio
+
+Monsters/Monster_sexophone=Deadsax
+Monsters/Monster_sexophone_bio=Deadsax bio
+
+Monsters/Monster_moldbell=Moldbell
+Monsters/Monster_moldbell_bio=Moldbell bio

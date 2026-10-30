@@ -494,3 +494,11 @@ Monsters/Monster_dipster_4_new diamonds=5 dipster-o 1800 10 coins=5@120@coins=60
 Monsters/Monster_dipster_5_new diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,sol_new 0 0
 Monsters/Monster_dipster_6_new diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la_new 0 0
 Monsters/Monster_dipster_7_new diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti_new 0 0
+
+
+Monsters/Monster_jawewolf Vortex=1 mythical 72000 30 coins=2@80@coins=260 Bay ,Jawewolf 0 0
+Monsters/Monster_stitchekeys Vortex=1 mythical 72000 30 coins=2@80@coins=260 Bay ,Stitchekeys 0 0
+Monsters/Monster_skrip Vortex=1 mythical 72000 30 coins=2@80@coins=260 Bay ,Skrip 0 0
+Monsters/Monster_sexophone Vortex=1 mythical 72000 30 coins=2@80@coins=260 Bay ,Sexophone 0 0
+Monsters/Monster_moldbell Vortex=1 mythical 72000 30 coins=2@80@coins=260 Bay ,Moldbell 0 0
+
