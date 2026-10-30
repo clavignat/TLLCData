@@ -434,7 +434,6 @@ Monsters/Monster_gecho diamonds=850 plant@earth@light@poison@fire 32400 16 coins
 Monsters/Monster_bowgart diamonds=350 plant@water@cold 32400 16 coins=7@60@coins=481 Natural bowgart,bowgart 0 0
 Monsters/Monster_krillby_dof diamonds=500 air@earth@cold@fire 0 15 coins=0@120@coins=60 Natural krillby,krillby 0 0
 
-Monsters/Monster_flowerning diamonds=250 plant@special 0 10 coins=5@60@coins=60 Natural flowerning,flowerning 0 0
 Monsters/Gobbley diamonds=2 special 0 5 coins=15@120@coins=300 Seasonal gobbley,gobbley 0 0
 
 Monsters/Monster_cybop_young diamonds=100 air@earth 28800 3 coins=1@80@coins=100 Natural cybop,cybop_young 4 0
@@ -496,9 +495,9 @@ Monsters/Monster_dipster_6_new diamonds=5 dipster-o 1800 10 coins=5@120@coins=60
 Monsters/Monster_dipster_7_new diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti_new 0 0
 
 
-Monsters/Monster_jawewolf Vortex=1 mythical 72000 30 coins=2@80@coins=260 Bay ,Jawewolf 0 0
-Monsters/Monster_stitchekeys Vortex=1 mythical 72000 30 coins=2@80@coins=260 Bay ,Stitchekeys 0 0
-Monsters/Monster_skrip Vortex=1 mythical 72000 30 coins=2@80@coins=260 Bay ,Skrip 0 0
-Monsters/Monster_sexophone Vortex=1 mythical 72000 30 coins=2@80@coins=260 Bay ,Sexophone 0 0
-Monsters/Monster_moldbell Vortex=1 mythical 72000 30 coins=2@80@coins=260 Bay ,Moldbell 0 0
+Monsters/Monster_jawewolf Vortex=1 mythical 72000 30 coins=2@80@coins=260 encased ,Jawewolf 0 0
+Monsters/Monster_stitchekeys Vortex=1 mythical 72000 30 coins=2@80@coins=260 encased ,Stitchekeys 0 0
+Monsters/Monster_skrip Vortex=1 mythical 72000 30 coins=2@80@coins=260 encased ,Skrip 0 0
+Monsters/Monster_sexophone Vortex=1 mythical 72000 30 coins=2@80@coins=260 encased ,Sexophone 0 0
+Monsters/Monster_moldbell Vortex=1 mythical 72000 30 coins=2@80@coins=260 encased ,Moldbell 0 0
 
