@@ -155,6 +155,7 @@ Monsters/Monster_handmond coins=10000 organ 14400 10 coins=1@120@coins=90 Lost h
 Monsters/Monster_whimstlop diamonds=150 organ@air@earth 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
 Monsters/Monster_whimstlop_meduza diamonds=10 organ@air@earth 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
 
+Monsters/Monster_handmond_new coins=10000 organ 14400 10 coins=1@120@coins=90 Lost handmond,handmond_new 6 0
 
 Monsters/Knott_1 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_1 0 0
 Monsters/Knott_2 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_2 0 0

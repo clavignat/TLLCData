@@ -131,6 +131,7 @@ Monsters/Monster_schmoochle
 ;
 Organs:
 Monsters/Monster_handmond
+Monsters/Monster_handmond_new
 Monsters/Monster_oaktopus
 Monsters/Monster_theremind
 Monsters/Monster_denchuhs
