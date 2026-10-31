@@ -174,13 +174,19 @@ Monsters/Monster_spunge_young
 Monsters/Monster_trox_young
 Monsters/Monster_reedling_young
 Monsters/Monster_bridgit_young
+Monsters/Monster_clamble_young
+Monsters/Monster_ziggurab_young
 Monsters/Monster_frondley_young
 Monsters/Monster_gloptic_young
 Monsters/Monster_krillby_young
+Monsters/Monster_deedge_young
+Monsters/Monster_shellbeat_young
 Monsters/Monster_drummidary_young
 
+Monsters/Monster_hyehehe_young
 Monsters/Monster_jeeode_young
 Monsters/Monster_brump_young
+Monsters/Monster_schmoochle_young
 Monsters/Monster_punkleton_young
 Monsters/Monster_yool_young
 Monsters/Monster_wibbler_young diamonds=10000

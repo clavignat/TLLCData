@@ -526,7 +526,7 @@ Shaardz
 Stann
 Dwayne
 ;
-Monsters/Monster_deedge
+Monsters/Monster_deedge,Monsters/Monster_deedge_young
 Aphex
 Audric
 Jerrick
@@ -717,7 +717,7 @@ Rex
 Serine
 Wormaggot
 ;
-Monsters/Monster_schmoochle
+Monsters/Monster_schmoochle,Monsters/Monster_schmoochle_young
 Amamini
 Cinta
 Clementine
@@ -1187,7 +1187,7 @@ Glitch
 Bynari
 Comvert
 ;
-Monsters/Monster_clamble
+Monsters/Monster_clamble,Monsters/Monster_clamble_young
 Bluto
 Clamp
 Clang
@@ -1879,7 +1879,7 @@ Oss
 Porr
 Pluggz
 ;
-Monsters/Monster_shellbeat
+Monsters/Monster_shellbeat,Monsters/Monster_shellbeat_young
 Shellby
 Squidrum
 Octo-Mon
@@ -2007,7 +2007,7 @@ Alpha
 Synthboy
 Synthgirl
 ;
-Monsters/Monster_hyehehe
+Monsters/Monster_hyehehe,Monsters/Monster_hyehehe_young
 Awsmask
 Boogley
 Cathedrocks

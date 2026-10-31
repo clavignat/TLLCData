@@ -139,6 +139,9 @@ Calamity 86400 17
 Monsters/Monster_varrow=Monsters/Monster_varrow 17
 Monsters/Monster_banno=Monsters/Monster_banno 17
 Monsters/Monster_stogg_young=Monsters/Monster_stogg_undof= 17
+Monsters/Monster_deedge_young=Monsters/Monster_deedge 17
+Monsters/Monster_hyehehe_young=Monsters/Monster_hyehehe 17
+Monsters/Monster_clamble_young=Monsters/Monster_clamble 17
 Monsters/Monster_rootitoot_young=Monsters/Monster_rootitoot 17
 Monsters/Monster_pummel_young=Monsters/Monster_pummel 17
 Monsters/Monster_blasoom=Monsters/Monster_blasoom 0
@@ -182,4 +185,9 @@ Monsters/Monster_mammott_young=Monsters/Monster_mammott 4
 ;
 MG 8600 4
 Monsters/Monster_krillby_young=Monsters/Monster_krillby_dof 4
+Monsters/Monster_shellbeat_young=Monsters/Monster_shellbeat 4
+Monsters/Monster_potbelly_young=Monsters/Monster_potbelly 4
+Monsters/Monster_maw_young=Monsters/Monster_maw 4
+Monsters/Monster_toejammer_young=Monsters/Monster_toejammer 4
+Monsters/Monster_mammott_young=Monsters/Monster_mammott 4
 ;

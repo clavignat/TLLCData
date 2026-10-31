@@ -1410,6 +1410,24 @@ Monsters/VOIDCORN_dream_bio=<color="red">YOUR MISSING YOOL</color>
 Monsters/Monster_krillby_young=Young Krillby
 Monsters/Monster_krillby_young_bio=Young Krillby bio
 
+Monsters/Monster_deedge_young=Young Deedge
+Monsters/Monster_deedge_young_bio=Young Deedge Bio
+
+Monsters/Monster_clamble_young=Young Clamble
+Monsters/Monster_clamble_young_bio=Young Clamble Bio
+
+Monsters/Monster_ziggurab_young=Young Ziggurab
+Monsters/Monster_ziggurab_young_bio=Young Ziggurab Bio
+
+Monsters/Monster_hyehehe_young=Young Hyehehe
+Monsters/Monster_hyehehe_young_bio=Young Hyehehe Bio
+
+Monsters/Monster_shellbeat_young=Young Shellbeat
+Monsters/Monster_shellbeat_young_bio=Young Shellbeat Bio
+
+Monsters/Monster_schmoochle_young=Young Schmoochle
+Monsters/Monster_schmoochle_young_bio=Young Schmoochle Bio
+
 #BAY#
 
 Monsters/Monster_jawewolf=Jawewolf
