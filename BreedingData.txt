@@ -63,19 +63,26 @@ Monsters/Monster_knucklehead_young 35
 Monsters/Monster_rootitoot_young 30
 Monsters/Monster_spunge_young 30
 Monsters/Monster_reedling_young 30
+Monsters/Monster_ziggurab_young 30
+Monsters/Monster_clamble_young 30
 Monsters/Monster_bridgit_young 27
 Monsters/Monster_frondley_young 20
 Monsters/Monster_gloptic_young 10
 Monsters/Monster_krillby_young 10
+Monsters/Monster_shellbeat_young 27
+Monsters/Monster_deedge_young 27
 Monsters/Monster_drummidary_young 7
 
+Monsters/Monster_hyehehe_young=Monsters/Monster_trox_young+Monsters/Monster_clamble 4
 Monsters/Monster_punkleton_young=Monsters/Monster_reedling_young+Monsters/Monster_oaktopus_young 4
 Monsters/Monster_yool_young=Monsters/Monster_frondley_young+Monsters/Monster_osstax_young 4
 Monsters/Monster_jeeode_young=Monsters/Monster_knucklehead_young+Monsters/Monster_spunge_young 4
+Monsters/Monster_schmoochle_young=Monsters/Monster_ziggurab_young+Monsters/Monster_cybop_young 4
 
 ;
 Organs:
 Monsters/Monster_handmond 85
+Monsters/Monster_handmond_new 85
 Monsters/Monster_oaktopus 70
 Monsters/Monster_denchuhs 50
 Monsters/Monster_boskus 60
