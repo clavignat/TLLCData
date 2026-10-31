@@ -55,6 +55,9 @@ Jewel 33 ground
 Goldegg 4 ground
 Relic 10 ground
 ;
+Island_Bay: 40 40
+Poop 33 ground
+;
 CatBoi: 2 10
 Catfur 33 catfurSpawn
 ;
