@@ -507,7 +507,7 @@ Monsters/Monster_moldbell Vortex=1 mythical 72000 30 coins=2@80@coins=260 encase
 Monsters/Monster_deedge_young diamonds=700 water@plant@cold@air 79200 40 coins=1@28@coins=550 Natural deedge,deedge_young 6 0
 Monsters/Monster_clamble_young diamonds=300 earth@plant@cold 43200 25 coins=1@72@coins=260 Natural clamble,clamble_young 4 0
 Monsters/Monster_ziggurab_young diamonds=300 earth@cold@fire 43200 25 coins=1@72@coins=260 Natural ziggurab,ziggurab_young 4 0
-Monsters/Monster_hyehehe_young diamonds=630 mythical28800 30 coins=2@60@coins=120 Mythical hyehehe,hyehehe_young 6 0
+Monsters/Monster_hyehehe_young diamonds=630 mythical 28800 30 coins=2@60@coins=120 Mythical hyehehe,hyehehe_young 6 0
 Monsters/Monster_shellbeat_young diamonds=700 earth@water@plant@air 79200 40 coins=1@28@coins=550 Natural shellbeat,shellbeat_young 6 0
 Monsters/Monster_schmoochle_young diamonds=1000 S2 86400 25 coins=1@28@coins=550 Seasonal schmoochle,schmoochle_young 10 0
 
