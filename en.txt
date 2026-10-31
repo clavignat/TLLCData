@@ -125,8 +125,8 @@ Monsters/Monster_quibble_rare_bio=Some Quibbles flat out refuse to grow up - in 
 str_island_composer=Composer Island
 str_island_temmie=Temmie Village
 
-str_island_bay=VITE ZHIRNIY
-str_island_credits=Credits
+str_island_Bay=VITE ZHIRNIY
+str_island_Credits=Credits
 
 Monsters/composer/Monster_potbelly_composer=Potbelly
 Monsters/composer/Monster_potbelly_composer_bio=Potbelly bio
