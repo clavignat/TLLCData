@@ -66,6 +66,7 @@ Monsters/Monster_reedling_young 30
 Monsters/Monster_bridgit_young 27
 Monsters/Monster_frondley_young 20
 Monsters/Monster_gloptic_young 10
+Monsters/Monster_krillby_young 10
 Monsters/Monster_drummidary_young 7
 
 Monsters/Monster_punkleton_young=Monsters/Monster_reedling_young+Monsters/Monster_oaktopus_young 4

@@ -2059,3 +2059,13 @@ Monsters/Monster_jawewolf,Monsters/Monster_stitchekeys,Monsters/Monster_skrip,Mo
 ?????????
 ????
 ;
+Monsters/Monster_krillby_young,Monsters/Monster_krillby_dof,Monsters/Krillby
+Alaman
+Bagong
+Conch
+Herbert
+Jethro
+Jumbo
+Larry
+;
+

@@ -434,6 +434,8 @@ Monsters/Monster_gecho diamonds=850 plant@earth@light@poison@fire 32400 16 coins
 Monsters/Monster_bowgart diamonds=350 plant@water@cold 32400 16 coins=7@60@coins=481 Natural bowgart,bowgart 0 0
 Monsters/Monster_krillby_dof diamonds=500 air@earth@cold@fire 0 15 coins=0@120@coins=60 Natural krillby,krillby 0 0
 
+Monsters/Monster_krillby_young diamonds=500 air@earth@cold@fire 0 15 coins=0@120@coins=60 Natural krillby,krillby_young 0 0
+
 Monsters/Gobbley diamonds=2 special 0 5 coins=15@120@coins=300 Seasonal gobbley,gobbley 0 0
 
 Monsters/Monster_cybop_young diamonds=100 air@earth 28800 3 coins=1@80@coins=100 Natural cybop,cybop_young 4 0

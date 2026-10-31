@@ -1400,6 +1400,10 @@ Monsters/Monster_ghazt_dream_bio=Dishonest Distinct Delight Distant District
 Monsters/VOIDCORN_dream=<color="red">V O I D C O R N</color>
 Monsters/VOIDCORN_dream_bio=<color="red">YOUR MISSING YOOL</color>
 
+#TLLPS STUFF#
+Monsters/Monster_krillby_young=Young Krillby
+Monsters/Monster_krillby_young_bio=Young Krillby bio
+
 #BAY#
 
 Monsters/Monster_jawewolf=Jawewolf
@@ -1409,7 +1413,7 @@ Monsters/Monster_stitchekeys=Stitchekeys
 Monsters/Monster_stitchekeys_bio=A monster whose unenviable fate is to be under the control of a parasite living inside him. They serve it simultaneously as both a home and a living musical instrument. And in those moments when the parasite playfully picks out a tune on his keyboard-like teeth, Stitchekeys completely loses control over themselves, plunging into mysterious memories of another time. And only in rare instants, when the worm is sound asleep, does they get a chance to once again feel the joy of regaining control over what was once their own old body - even if they no longer recognize it.
 
 Monsters/Monster_skrip=Skrip
-Monsters/Monster_skrip_bio=Have you ever wondered what it's like to be an old, dried-up tree? Well, skrip once wondered that very same thing. A rather awkward body, constantly cracking bark, and eyes positioned in the least convenient places. Yet they do have a voice - and skrip gladly makes use of it. They sing along to the beautiful howl of the wind, pouring out his soulful melody-until one day, they lose even that gift, never to regain it.
+Monsters/Monster_skrip_bio=Have you ever wondered what it's like to be an old, dried-up tree? Well, Skrip once wondered that very same thing. A rather awkward body, constantly cracking bark, and eyes positioned in the least convenient places. Yet they do have a voice - and skrip gladly makes use of it. They sing along to the beautiful howl of the wind, pouring out his soulful melody-until one day, they lose even that gift, never to regain it.
 
 Monsters/Monster_sexophone=Deadsax
 Monsters/Monster_sexophone_bio=A victim of brutal medical malpractice. They are still alive, despite being nothing more than a shriveled, hollow, deathly pale shell. An ink-black, tarry substance constantly oozes from all his orifices-it is this very substance that allows him to go on existing, albeit in such a mutilated state.

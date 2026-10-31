@@ -11,7 +11,7 @@ TI 0 Incomplete z
 Meduza 25 Incomplete NoZeppelin
 dream 0 Complete z
 temmie 4 Complete z
-MG 20 Incomplete NoZeppelin
+MG 20 Incomplete z
 Bay 0 Incomplete NoZeppelin
 Minigame_Thumpies 0 Complete z
 Minigame_stacking 0 Complete z

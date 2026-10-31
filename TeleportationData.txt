@@ -180,3 +180,6 @@ Monsters/Monster_spunge_young=Monsters/Monster_spunge 4
 Monsters/Monster_toejammer_young=Monsters/Monster_toejammer 4
 Monsters/Monster_mammott_young=Monsters/Monster_mammott 4
 ;
+MG 8600 4
+Monsters/Monster_krillby_young=Monsters/Monster_krillby_dof 4
+;
