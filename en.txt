@@ -308,7 +308,13 @@ Monsters/Monster_cybop_young=Young Cybop
 Monsters/Monster_cybop_young_bio=Young Cybop bio
 
 Monsters/Monster_tweedleGM=Seabeak
-Monsters/Monster_tweedleGM_bio=Seabeak bio
+Monsters/Monster_tweedleGM_bio=This is a Seabeak. What is so special about them? They're extremely vulnerable, especially when their feelings get hurt, however no one knows if they actually have feelings or not, because they can't even speak proper English. "HA! Got you now? No? Aww man.", is what a Seabeak usually says all the time (translated from Monstrous), They have NO sneaking skills, at all. Seabeaks are by far the most unknown monsters..NOT! People have managed to get a close look on one, and they have figured out that it's descended from Tweedle, or rather, a grand-grand-grand-grand-close-relative of it!
+
+Monsters/Monster_tabicrab=Tabicrab
+Monsters/Monster_tabicrab_bio=*click*, *clack*, *click*, *clack*...you hear that? That's the sound of Tabicrab! They have HUGE claws, huge enough to even be a hunter in the wild! However Tabicrabs are peaceful creatures, they will not hurt a soul - unless they trigger Tabicrab in one way or another. No person knows how they originated, or how do they even exist, however one thing is known for sure - they inherited the Cybop genes and escaped from its origin islands in search for 'freedom' and 'fame'. In reality, they just went to Gamma Water Island. Just Tabicrab.
+
+Monsters/Monster_nogginGM=Ribbeat
+Monsters/Monster_nogginGM_bio=Would you look at that, it's a "breathing frog rock with 2 hands and legs"! What a bizzare coincidence, because in reality, that's just Ribbeat - with its green-dyed body and..I dunno, whatever frogs have in their color? Usually no one pays close attention, however if you look closely, you'll find it that it's just....nothing usual. Just...banging hands on its head, that's all. People speculated that Ribbeat might be an amalgamate - sticked together with the soul and DNA of Noggin, Burrythm and the Gamma energy all just slapped together..however no one knows for sure. We are all just victims to bizzare theories, aren't we?
 
 Monsters/Monster_dipster_1_new=Do
 Monsters/Monster_dipster_1_new_bio=<ref>DipsterBio
@@ -1332,10 +1338,6 @@ Monsters/Monster_quibbleGM=Jastanaw
 Monsters/Monster_quibbleGM_bio=Well... It seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think.
 Monsters/Monster_pummelGM=Wabdabuana
 Monsters/Monster_pummelGM_bio=Wadabuana bio
-Monsters/Monster_tabicrab=Tabicrab
-Monsters/Monster_tabicrab_bio=Tabicrab bio
-Monsters/Monster_nogginGM=Ribbeat
-Monsters/Monster_nogginGM_bio=Ribbeat bio
 
 str_island_Minigame_YapLeap=Yap Leap
 
