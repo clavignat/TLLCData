@@ -1976,10 +1976,12 @@ Genny
 ;
 Monsters/Monster_nogginGM
 Ribber
-Rythmburry
-Blackberry
+Rhythmburry
 Blueberry
 Snake
+Eyeling
+Rigster
+Shlem
 ;
 Monsters/Monster_banno_new
 Anon
@@ -2050,7 +2052,9 @@ Monsters/Monster_tweedleGM
 Twiddle
 Tweedy
 Seethru
-Clingy
+Clingster
+Lepa
+Olala
 ;
 Monsters/Monster_jawewolf,Monsters/Monster_stitchekeys,Monsters/Monster_skrip,Monsters/Monster_sexophone,Monsters/Monster_moldbell
 ???
@@ -2067,5 +2071,13 @@ Herbert
 Jethro
 Jumbo
 Larry
+;
+Monsters/Monster_tabicrab
+Jade
+Crist
+Tabi
+Johnny
+Pancirj
+Kluv
 ;
 
