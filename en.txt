@@ -316,6 +316,9 @@ Monsters/Monster_tabicrab_bio=*click*, *clack*, *click*, *clack*...you hear that
 Monsters/Monster_nogginGM=Ribbeat
 Monsters/Monster_nogginGM_bio=Would you look at that, it's a "breathing frog rock with 2 hands and legs"! What a bizzare coincidence, because in reality, that's just Ribbeat - with its green-dyed body and..I dunno, whatever frogs have in their color? Usually no one pays close attention, however if you look closely, you'll find it that it's just....nothing usual. Just...banging hands on its head, that's all. People speculated that Ribbeat might be an amalgamate - sticked together with the soul and DNA of Noggin, Burrythm and the Gamma energy all just slapped together..however no one knows for sure. We are all just victims to bizzare theories, aren't we?
 
+Monsters/Monster_fwogGM=Thlugg
+Monsters/Monster_fwogGM_bio=Thlugg bio
+
 Monsters/Monster_dipster_1_new=Do
 Monsters/Monster_dipster_1_new_bio=<ref>DipsterBio
 Monsters/Monster_dipster_2_new=Re
