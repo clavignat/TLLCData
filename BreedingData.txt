@@ -19,7 +19,7 @@ Monsters/Monster_spunge_rare 40 _rare
 Monsters/Monster_choral 35
 Monsters/Monster_dulsylvan 35
 Monsters/Monster_dulsylvan_rare 35 _rare
-Monsters/Monster_banno 35
+Monsters/Monster_banno_new 35
 Monsters/Monster_stoopa 20
 
 Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 5
