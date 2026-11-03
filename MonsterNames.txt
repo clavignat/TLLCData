@@ -99,7 +99,7 @@ Kikidora
 Raven
 Sventyuon
 ;
-Monsters/Monster_banno
+Monsters/Monster_banno,Monsters/Monster_banno_new
 Anon
 Tubber
 Canse
@@ -430,7 +430,7 @@ TrippTrapp
 Trollimba
 Xylognome
 ;
-Monsters/Monster_handmond
+Monsters/Monster_handmond,Monsters/Monster_handmond_new
 Michle
 Andmond
 Hammond
@@ -1982,24 +1982,6 @@ Snake
 Eyeling
 Rigster
 Shlem
-;
-Monsters/Monster_banno_new
-Anon
-Tubber
-Canse
-Snipsnap
-Hank
-Mr. Lobs
-Locrusta
-Moydadyirok
-Crubagan
-Tulla
-Chitab
-abloZi
-DyaADya
-Uncle Barry
-Banikancir
-Sr. Siri
 ;
 Monsters/Monster_synthfly
 Sindicate
