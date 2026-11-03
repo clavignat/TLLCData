@@ -2062,4 +2062,11 @@ Johnny
 Pancirj
 Kluv
 ;
-
+Monsters/Monster_fwogGM
+Dr. Flugg
+Tuffy
+Tlugga
+Lugg
+Fwooooga
+Shrong
+;

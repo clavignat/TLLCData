@@ -317,7 +317,7 @@ Monsters/Monster_nogginGM=Ribbeat
 Monsters/Monster_nogginGM_bio=Would you look at that, it's a "breathing frog rock with 2 hands and legs"! What a bizzare coincidence, because in reality, that's just Ribbeat - with its green-dyed body and..I dunno, whatever frogs have in their color? Usually no one pays close attention, however if you look closely, you'll find it that it's just....nothing usual. Just...banging hands on its head, that's all. People speculated that Ribbeat might be an amalgamate - sticked together with the soul and DNA of Noggin, Burrythm and the Gamma energy all just slapped together..however no one knows for sure. We are all just victims to bizzare theories, aren't we?
 
 Monsters/Monster_fwogGM=Thlugg
-Monsters/Monster_fwogGM_bio=Thlugg bio
+Monsters/Monster_fwogGM_bio=Thluggs are quite...well, 'unspecified' monsters (is this the third time I'm saying this), formed from within Kryst's grand-grand-grand-grand-ancestor, Fwog. You see, after Thlugg was formed - the whole world started collapsing from how ugly Kryst thought it was. Not that it IS actually ugly, however most monsters call it "ugly", hell, even the Bass Machine called it ugly once because it tried doing whatever it does the best, which is doing....notes? I dunno. Moving on, Thlugg is also very friendly, so friendly and naive that EVIL!!!! monsters can take control of them and make them do anything they want, unless they get off the hook somehow. This was just a roasting competition, wasn't it?
 
 Monsters/Monster_dipster_1_new=Do
 Monsters/Monster_dipster_1_new_bio=<ref>DipsterBio
