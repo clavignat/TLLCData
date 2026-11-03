@@ -404,7 +404,6 @@ Decoration/Decoration_sign_water
 ;
 Organs
 monsters:
-Monsters/Monster_handmond
 Monsters/Monster_handmond_new
 Monsters/Monster_whimstlop
 Monsters/Monster_theremind

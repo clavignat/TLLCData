@@ -13,7 +13,7 @@ Monsters/Monster_quibble 4
 Monsters/Monster_spunge 3
 Monsters/Monster_choral 2
 Monsters/Monster_dulsylvan 2
-Monsters/Monster_banno 2
+Monsters/Monster_banno_new 2
 Monsters/Monster_stoopa 1
 Monsters/Monster_bridgit 1
 Monsters/Monster_phangler 1
@@ -52,7 +52,7 @@ Monsters/Monster_noggin_rare_undof 1
 Monsters/Monster_gumtromp_rare 1
 ;
 Wheezel Organs
-Monsters/Monster_handmond 1
+Monsters/Monster_handmond_new 1
 Monsters/Monster_theremind 1
 Monsters/Monster_whimstlop 1
 Monsters/Monster_reebro 1
