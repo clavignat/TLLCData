@@ -536,10 +536,10 @@ Monsters/Knott_11=Haivv
 Monsters/Knott_11_bio=Haivv bio
 
 Monsters/Monster_handmond=Handmond
-Monsters/Monster_handmond_bio=Handmond bio
+Monsters/Monster_handmond_bio=The "Handmond", or rather, the "Cerebrum hanjimonjus", as scientists like to call it, is a shocking abomination even for monsters outside of Terra of Organs. To the uninitiated, it may come as a shock that a creature such as the Handmond is able to sustain itself - their guts are right out there in the open! In truth, Handmonds are incredibly hardy creatures, using their specialized external organs to process and metabolize pure harmonic energy, which they filter from the air via alchemical processes in their fingers. This surplus of energy is almost exclusively used to power their massive brains, which contrary to popular belief, do not make Handmonds especially intelligent.
 
 Monsters/Monster_handmond_new=Handmond
-Monsters/Monster_handmond_new_bio=Handmond bio
+Monsters/Monster_handmond_new_bio=<ref>Monsters/Monster_handmond_bio
 
 Monsters/Monster_whimstlop=Whimstlop
 Monsters/Monster_whimstlop_bio=The inner machinations of the Whimstlop are an enigma. What's seen on the outside of this passive monster is merely a suit of armor, with its "helmet" portion enlarged by the wielding of discarded armor from its youth. Its organic aspects lie beneath its metallic sheathing, with the only visible parts being a singular eye (it lost the other one) and two twig-like legs (surprisingly strong given the burden of lifting its armor). Depending on its environment, a Whimstlop can don an armor of a different material to fit its current needs. Sometimes they work as part-time leafblowers, expelling much of the dirt and grime its other monster pals bring in.
