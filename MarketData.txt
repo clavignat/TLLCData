@@ -1127,7 +1127,7 @@ Monsters/Monster_quibbleGM
 Monsters/Monster_tabicrab
 Monsters/Monster_tweedleGM
 Monsters/Monster_nogginGM
-Monsters/Monster_fwogGM
+Monsters/Monster_fwogGM Vortex=2
 -
 decorations:
 Decoration/Decoration_test
