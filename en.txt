@@ -319,6 +319,9 @@ Monsters/Monster_nogginGM_bio=Would you look at that, it's a "breathing frog roc
 Monsters/Monster_fwogGM=Thlugg
 Monsters/Monster_fwogGM_bio=Thluggs are quite...well, 'unspecified' monsters (is this the third time I'm saying this), formed from within Kryst's grand-grand-grand-grand-ancestor, Fwog. You see, after Thlugg was formed - the whole world started collapsing from how ugly Kryst thought it was. Not that it IS actually ugly, however most monsters call it "ugly", hell, even the Bass Machine called it ugly once because it tried doing whatever it does the best, which is doing....notes? I dunno. Moving on, Thlugg is also very friendly, so friendly and naive that EVIL!!!! monsters can take control of them and make them do anything they want, unless they get off the hook somehow. This was just a roasting competition, wasn't it?
 
+Monsters/Monster_potbelly_rare=Rare Potbelly
+Monsters/Monster_potbelly_rare_bio=Rare Potbelly bio
+
 Monsters/Monster_dipster_1_new=Do
 Monsters/Monster_dipster_1_new_bio=<ref>DipsterBio
 Monsters/Monster_dipster_2_new=Re
