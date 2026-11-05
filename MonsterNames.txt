@@ -2070,3 +2070,14 @@ Lugg
 Fwooooga
 Shrong
 ;
+Monsters/Monster_likho_rare
+Likho-ad
+Barbatan
+Eyeren
+Yaken
+Leaky
+Liconess
+Sirana
+Finnth
+Depf
+;
