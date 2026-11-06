@@ -292,9 +292,6 @@ Monsters/Monster_cranile_bio=This gem-ladden double elemental sees no fear - in 
 Monsters/Monster_synthfly=Synthfly
 Monsters/Monster_synthfly_bio=Syntheyes started as any old Magical, they could levitate, read minds, all that jazz. Until they started enjoying commiting crimes, identity theft, stealing the list goes on so to stop going to jail and being a criminal she started making a new identity, called Synthfly with more elements and the loss of its air element. Now, Synthflys new home is on Terra of Organs and creates sound along with its fellow organics.
 
-Monsters/Monster_banno_new=Banno
-Monsters/Monster_banno_new_bio=<ref>Monsters/Monster_banno_bio
-
 Monsters/Monster_hyehehe=Hyehehe
 Monsters/Monster_hyehehe_bio=Hyehehe bio
 
@@ -1438,6 +1435,9 @@ Monsters/Monster_shellbeat_young_bio=Young Shellbeat Bio
 
 Monsters/Monster_schmoochle_young=Young Schmoochle
 Monsters/Monster_schmoochle_young_bio=Young Schmoochle Bio
+
+Monsters/Monster_banno_new=Banno
+Monsters/Monster_banno_new_bio=<ref>Monsters/Monster_banno_bio
 
 #BAY#
 
