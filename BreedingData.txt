@@ -91,6 +91,7 @@ Monsters/Monster_schmoochle 4
 Monsters/Monster_theremind 60
 Monsters/Monster_clamble 50
 
+Monsters/Monster_whimstlop=Monsters/Monster_handmond_new+Monsters/Monster_cybop 40
 Monsters/Monster_whimstlop=Monsters/Monster_handmond+Monsters/Monster_cybop 40
 ;
 Candy:
