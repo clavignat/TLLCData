@@ -29,6 +29,8 @@ Monsters/Monster_phangler
 Monsters/Monster_phangler_rare
 Monsters/Monster_frondley
 Monsters/Monster_maulch
+
+Monsters/Monster_percFrog
 Monsters/Special/Monster_melochness
 ;
 City:
@@ -137,7 +139,6 @@ Monsters/Monster_spunge
 Monsters/Monster_schmoochle
 ;
 Organs:
-Monsters/Monster_handmond
 Monsters/Monster_handmond_new
 Monsters/Monster_oaktopus
 Monsters/Monster_theremind
@@ -260,6 +261,11 @@ Monsters/Monster_deedge
 Monsters/Monster_ffydill
 Monsters/Monster_blasoom
 Monsters/Monster_hyehehe
+Monsters/Monster_pixolotl
+Monsters/Monster_poewk
+
+Monsters/Monster_varrow_rare
+Monsters/Monster_banno_rare
 ;
 GM:
 Monsters/Monster_olga
