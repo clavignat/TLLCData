@@ -10,25 +10,19 @@ MonsterLockedBio=Вы ещё не обнаружили этого монстра
 Monsters/Monster_tweedle=Легптица
 Monsters/Monster_tweedle_bio=Пссс. Ты это слышал? Вероятно, это сказала Легптица! Этот монстр, собирающий сплетни, известен своей способностью "хорошо" хранить секреты, поэтому собратья-монстры стараются держать всё при себе, потому что не хотят чтобы вскоре весь мир узнал про их сокровенные тайны.
 Monsters/Monster_tweedle_rare=Редкая Легптица
-Monsters/Monster_tweedle_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tweedle_young=Юная Легптица
 Monsters/Monster_tweedle_young_bio=Хорошо известно, что Легптицы воздушные и непринуждённые монстры, и самые маленькие представители этого вида ничем не отличаются. Когда эти щебечущие пташки не разносят сплетни по Летучему городу, они всегда прихорашиваются, надеясь стать самой "фантастической звёздочкой" этого дня.
 
 Monsters/Monster_potbelly=Брюшок
 Monsters/Monster_potbelly_bio=Взрослый Брюшок - громкое и причудливое создание, постоянно болтающее всякую ерунду всем, кто находится по близости и может его услышать. В то время как монстры с удовольствием остаются слушать его, Брюшок выпрыгивает из своего горшка, а затем на столько сильно погружается в свою болтовню, даже не замечая как его корневые усики обвивают нетерпеливых слушателей. К счастью, с недавнего дня монстры научились держаться подальше или мягко напоминают Брюшку, и тогда всё идёт гладко.
 Monsters/Monster_potbelly_rare=Редкий Брюшок
-Monsters/Monster_potbelly_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_potbelly_young=Юный Брюшок
 Monsters/Monster_potbelly_young_bio=Играть намного веселее с двумя головами! Юный Брюшок - лучший игрок в любой стратегической игре, благодаря двойной мощи мозга. Но к несчастью для других монстра-малышей, если ноль умножить на два, то всё равно выйдет ноль.
 
 Monsters/Monster_noggin=Барабамень
-Monsters/Monster_noggin_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_noggin_rare=Редкий Барабамень
-Monsters/Monster_noggin_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_noggin_young=Юный Барабамень
-Monsters/Monster_noggin_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_noggin_meduza=<ref>Monsters/Monster_noggin
-Monsters/Monster_noggin_meduza_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
 Monsters/Monster_noggin_undof_bio=Барабамни, по сути, - музыкальные камни. Их незамысловатые ритмы - эхо пульса самой земли Острова. Вибрации создаваемого Барабамнями рокота заставляют других Монстров качать головами в такт.
 Monsters/Monster_noggin_rare_undof=<ref>Monsters/Monster_noggin_rare
@@ -39,7 +33,6 @@ Monsters/Monster_burrythm_rare_undof=Редкий Ритмокоп
 Monsters/Monster_toejammer=Палезатор
 Monsters/Monster_toejammer_bio=Взрослые Палезаторы обладают отличным игристым характером и очень умело плавают, когда живут под водой. Также известно, что они являются довольно желанными гостями на разных вечеринках и пикниках, на которые их всегда приглашает лучшая подруга Легптица, и они знают, как хорошо провести время!!!
 Monsters/Monster_toejammer_rare=Редкий Палезатор
-Monsters/Monster_toejammer_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_toejammer_young=Юный Палезатор
 Monsters/Monster_toejammer_young_bio=Пухленькие и булькающие юные Палезаторы - всегда приятные товарищи по играм для других монстров. Иногда может быть довольно неловко, когда брошенный мячик застревает в желеобразном теле этого малыша, но ничего страшного! Такие ситуации всегда окупаются 5 минутами безудержного смеха.
 Monsters/Monster_toejammer_undof=<ref>Monsters/Monster_toejammer
@@ -50,71 +43,50 @@ Monsters/Monster_floodbud_undof=Дудуза
 Monsters/Monster_floodbud_rare_undof=Редкая Дудуза
 
 Monsters/Monster_mammott=Мамунт
-Monsters/Monster_mammott_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_mammott_rare=Редкий Мамунт
-Monsters/Monster_mammott_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_mammott_young=Юный Мамунт
-Monsters/Monster_mammott_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_mammott_meduza=<ref>Monsters/Monster_mammott
-Monsters/Monster_mammott_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dandidoo=Дендиптица
 Monsters/Monster_dandidoo_bio=Как тёплые океанские течения уносят монструстриц в глубины, так и лёгкий бриз несёт Дендиптицу по миру монстров. Их миграции зависят от воздушного потока, поскольку природа не была достаточно добра, чтобы даровать им крылья. Они могут пропускать воздух через свои тела, накапливать его и выпускать наружу в виде мощных потоков тонов и полутонов. Вот почему их пение напоминает "дууу" и "диии". Элемент растений даровал Дендиптицам зеленоватый оттенок и причёску в стиле афро, похожую на обычный цветуванчик.
 Monsters/Monster_dandidoo_rare=Редкая Дендиптица
-Monsters/Monster_dandidoo_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_dandidoo_young=Юная Дендиптица
-Monsters/Monster_dandidoo_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cybop=Пропеборг
 Monsters/Monster_cybop_bio=Пропеборги - не просто бездушные механизмы, они много думают и живут полной жизнью. Иногда Пропеборгам приходится напоминать, что приличным Монстрам не подобает собирать части тел других Монстров для ремонта собственных.
 Monsters/Monster_cybop_rare=Редкий Пропеборг
-Monsters/Monster_cybop_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cybop_young=Юный Пропеборг
-Monsters/Monster_cybop_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_quibble=Клавмный
 Monsters/Monster_quibble_bio=По началу Клавмный может показаться грациозным монстром, но это лишь на первый взгляд. Две головы постоянно спорят, имея разные мнения о последних тенденциях или о каких-либо других неординарных вопросах. Однажды Левый Клавмный хотел заказать "монстрошку крик", но Правый Клавмный хотел взять молочный монстропунш... воцарился хаос. Но, в конце концов, они всегда мирятся друг с другом, как настоящие двойняшки. И да, в итоге они заказали монстрошку в монстропуншевом соусе. ... Гениально.
 Monsters/Monster_quibble_rare=Редкий Клавмный
-Monsters/Monster_quibble_rare_bio=Некоторым Клавмным противна сама мысль о взрослении, и это, на самом деле, единственное, в чём они сходятся. Клювы Редких Клавмных не вырастают сами по себе. Клавмные погружаются в субкультуру своей молодости целиком и полностью: они взбивают себе неформальные гребни и навсегда сохраняют пёстрые клавиши, на которых играли, когда ещё только вылупились. Им, правда, приходится пользоваться удлинителями клювов, чтобы до них дотянуться... Но oh well, whatever, never mind, чувак. Только хардкор.
+Monsters/Monster_quibble_rare_bio=Некоторым Клавмным противна сама мысль о взрослении, и это, на самом деле, единственное, в чём они сходятся. Клювы Редких Клавмных не вырастают сами по себе. Клавмные погружаются в субкультуру своей молодости целиком и полностью: они взбивают себе неформальные гребни и навсегда сохраняют пёстрые клавиши, на которых играли, когда ещё только вылупились. Им, правда, приходится пользоваться удлинителями клювов, чтобы до них дотянуться... Но ох что ж, плевать, неважно, чувак. Только хардкор.
 Monsters/Monster_quibble_young=Юный Клавмный
 Monsters/Monster_quibble_young_bio=Нескончаемый энтузиазм Юного Клавмного не имеет себе равных ни у одного другого вида монстров. Собирая всевозможные разноцветные камешки, чтобы составить своё "обучающее" пианино, их творческий потенциал подкрепляется тем, что они вечно задают вопросы! Конечно, Небожители всегда рады помочь ответить на них, хотя, похоже, они всё ещё не могут найти ответ на вопрос "откуда берутся детеныши монстров"...
 
 Monsters/Monster_pango=Пингван
 Monsters/Monster_pango_bio=Кто бы мог подумать, что Монстр, рождённый из Воздуха и Холода, не будет уметь летать и постоянно мёрзнуть, но такая уж у Пингвана судьба. Ему остаётся только вечно оставаться на земле и стучать клювом в окружающей его бесконечной полифонии.
 Monsters/Monster_pango_rare=Редкий Пингван
-Monsters/Monster_pango_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pango_young=Юный Пингван
-Monsters/Monster_pango_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_shrubb=Кустива
-Monsters/Monster_shrubb_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_shrubb_rare=Редкая Кустива
-Monsters/Monster_shrubb_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_shrubb_young=Юная Кустива
-Monsters/Monster_shrubb_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_shrubb_meduza=<ref>Monsters/Monster_shrubb
-Monsters/Monster_shrubb_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_oaktopus=Осьмидуб
 Monsters/Monster_oaktopus_bio=Осьмидубы очень мудры и у них много знаний о мире монстров, которыми можно поделиться со всеми. У них почти всегда есть ответы на самые животрепещущие вопросы жизни; "Почему небо голубое?", "Мокрая ли вода?" и, самое главное, "Майонез это инстумент?" (Скорее всего, это риторический вопрос, ведь нам пока не удалось обнаружить ни одного Майонезного Монстра). Иногда они могут поведать историю о том как раньше монстры жили на головах огромных исполинов. Порой в это невозможно поверить! Кхм... ага. Да... Осьмидуба обычно можно застать за чтением интересных книг или купающимся в местном горячем источнике.
 Monsters/Monster_oaktopus_rare=Редкий Осьмидуб
 Monsters/Monster_oaktopus_rare_bio=Обладая очень высоким интеллектом и извилистым мозгом, Редкий Осьмидуб осуществил свою давнишнюю мечту - стать химиком! Этот "древесный волшебник" путешествует по всему измерению в поисках новых ингредиентов, от капли крови дремлющего великана до сладкого райского сока. Буквально недавно Редкий Осьмидуб обнаружил, что при смешивании воды с другими жидкостями в определённых пропорциях, такой коктейль может вызывать галлюциногенные свойства; удивительно!
 Monsters/Monster_oaktopus_young=Юный Осьмидуб
-Monsters/Monster_oaktopus_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_furcorn=Зерномех
-Monsters/Monster_furcorn_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_furcorn_rare=Редкий Зерномех
-Monsters/Monster_furcorn_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_furcorn_young=Юный Зерномех
-Monsters/Monster_furcorn_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_fwog=Лягашка
-Monsters/Monster_fwog_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fwog_rare=Редкая Лягашка
-Monsters/Monster_fwog_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fwog_young=Юная Лягашка
-Monsters/Monster_fwog_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fwog_undof=Лягашка
 Monsters/Monster_fwog_undof_bio=Покинув топи своей родины, Лягашка всю душу вкладывает в свою песнь в надежде найти пару. Её гипнотический зов распространяется по Острову и будит в груди остальных Монстров животное возбуждение.
 Monsters/Monster_fwog_rare_undof=<ref>Monsters/Monster_fwog_rare
@@ -123,25 +95,18 @@ Monsters/Monster_stoad_undof=Жабень
 Monsters/Monster_stoad_rare_undof=Редкая Жабень
 
 Monsters/Monster_drumpler=Ударнщик
-Monsters/Monster_drumpler_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_drumpler_rare=Редкий Ударнщик
-Monsters/Monster_drumpler_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_drumpler_young=Юный Ударнщик
-Monsters/Monster_drumpler_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_maw=Устолос
 Monsters/Monster_maw_bio=Безглазый Устолос - совершенное сочетание Элементов Холода и Воды. Его густой мех представляет собой один большой рецептор и защищает жидкое тело Устолоса от переохлаждения. Устолосы весьма горласты. И языкасты.
 Monsters/Monster_maw_rare=Редкий Устолос
-Monsters/Monster_maw_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_maw_young=Юный Устолос
 Monsters/Monster_maw_young_bio=Неудивительно, что Юный Устолос полностью пропитан чистой водой! По сути, действуя как пушистые водяные шарики, Устолосики быстро учатся управлять потреблением и оттоком жидкости благодаря своему удивительному организму...  Хоть и когда Устлос облизывает своим большим слюнявым языком - не очень приятно для остальных монстров, но с точки зрения Дрессировщиков Монстров, это знак того, что он просто хочет подружиться. Ооооу.
 Monsters/Monster_maw_meduza=<ref>Monsters/Monster_maw
-Monsters/Monster_maw_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_reedling=Зелынка
-Monsters/Monster_reedling_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_reedling_rare=Редкая Зелынка
-Monsters/Monster_reedling_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_reedling_young=Юная Зелынка
 Monsters/Monster_reedling_young_bio="Для чего же ещё сделана флейта, как не для какой-нибудь весёлой игры?", Всегда говорят юные Зелынки. Ну или это лишь предположение, что они пытаются донести, поскольку порывистых хрипов и пускания слюней пока нет в нашей базе данных переводимых языков. Тем не менее, этот миленький пёсик с радостью присоединяется к любым занятиям других монстрят.
 Monsters/Monster_reedling_young_singer=<ref>Monsters/Monster_reedling_young
@@ -155,147 +120,96 @@ Monsters/Monster_spunge_young=Юная Гупка
 Monsters/Monster_spunge_young_bio=ПФФФФФФФНФХФГНФЖБГБФ. Вот как звучит юная Гупка. И мы не шутим. Это просто восхитительно, чувак. (: 
 
 Monsters/Monster_thumpies=Тумпы
-Monsters/Monster_thumpies_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_thumpies_rare=Редкие Тумпы
-Monsters/Monster_thumpies_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_thumpies_young=Юные Тумпы
-Monsters/Monster_thumpies_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_scups=Лапага
-Monsters/Monster_scups_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_scups_rare=Редкая Лапага
-Monsters/Monster_scups_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_scups_young=Юная Лапага
-Monsters/Monster_scups_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_pompom=ПомПом
-Monsters/Monster_pompom_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pompom_rare=Редкая ПомПом
-Monsters/Monster_pompom_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pompom_young=Юная ПомПом
-Monsters/Monster_pompom_ypung_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_congle=Конгушка
-Monsters/Monster_congle_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_congle_rare=Редкая Конгушка
-Monsters/Monster_congle_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_congle_young=Юная Конгушка
-Monsters/Monster_congle_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Congle=Конгушка
 
 Monsters/Monster_pummel=Маракастук
-Monsters/Monster_pummel_bio=
 Monsters/Monster_pummel_rare=Редкий Маракастук
-Monsters/Monster_pummel_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pummel_young=Юный Маракастук
-Monsters/Monster_pummel_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pummel_meduza=<ref>Monsters/Monster_pummel
-Monsters/Monster_pummel_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_clamble=Раковица
 Monsters/Monster_clamble_bio=Подобная лиане Раковица для защиты своей уязвимой Растительной головы использует плоские металлические раковины. Пластины, из которых она вырастает, Раковица сбрасывает и сохраняет. Хотя в её родословной и присутствует Элемент Холода, её зелёные части тела плохо переносят температуру ниже нуля.
 Monsters/Monster_clamble_rare=Редкая Раковица
-Monsters/Monster_clamble_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_clamble_young=Юная Раковица
-Monsters/Monster_clamble_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_bowgart=Смычорог
-Monsters/Monster_bowgart_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bowgart_rare=Редкий Смычорог
-Monsters/Monster_bowgart_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bowgart_young=Юный Смычорог
-Monsters/Monster_bowgart_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_trox=Ти-рокс
 Monsters/Monster_trox_bio=Ти-Рокс источает энтузиазм и энергию, красуясь своими светящимися колосками и могучими челюстями. Монстрам с пальцами на ногах рекомендуется держаться от Ти-Рокса подальше.
 Monsters/Monster_trox_rare=Редкий Ти-рокс
-Monsters/Monster_trox_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_trox_young=Юный Ти-рокс
-Monsters/Monster_trox_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_shellbeat=Ракотакт
 Monsters/Monster_shellbeat_bio=Ракотакты от природы застенчивы и предпочитают проводить время внутри своих раковин. Когда их будят громким пением соседи, они немного расслабляются, вылезают из раковин и изо всех сил стараются подыграть на своих водных барабанных установках. В последнее время у Ракотактов очень даже получается.
 Monsters/Monster_shellbeat_rare=Редкий Ракотакт
-Monsters/Monster_shellbeat_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_shellbeat_young=Юный Ракотакт
-Monsters/Monster_shellbeat_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_quarrister=Хорамень
-Monsters/Monster_quarrister_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_quarrister_rare=Редкий Хорамень
-Monsters/Monster_quarrister_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_quarrister_young=Юный Хорамень
-Monsters/Monster_quarrister_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_deedge=Дидж
 Monsters/Monster_deedge_bio=Прислушиваясь к пульсациям земли, Дидж составляет из самых разных элементов сложный бит. Неутомимый и энергичный артист Дидж заставит танцевать даже самого скромного Монстра.
 Monsters/Monster_deedge_rare=Редкий Дидж
-Monsters/Monster_deedge_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_deedge_young=Юный Дидж
-Monsters/Monster_deedge_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_riff=Рифф
-Monsters/Monster_riff_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_riff_rare=Редкий Рифф
-Monsters/Monster_riff_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_riff_young=Юный Рифф
-Monsters/Monster_riff_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_entbrat=Избалолист
-Monsters/Monster_entbrat_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_entbrat_rare=Редкий Избалолист
-Monsters/Monster_entbrat_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_entbrat_young=Юный Избалолист
-Monsters/Monster_entbrat_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_mimic=Мимик
-Monsters/Monster_mimic_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_mimic_rare=Редкий Мимик
-Monsters/Monster_mimic_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_mimic_young=Юный Мимик
-Monsters/Monster_mimic_young_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Огненные)))
 Monsters/Monster_kayna=Лаватёка
-Monsters/Monster_kayna_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_kayna_rare=Редкая Лаватёка
-Monsters/Monster_kayna_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_kayna_young=Юная Лаватёка
-Monsters/Monster_kayna_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_kayna_undof=<ref>Monsters/Monster_kayna
 Monsters/Monster_kayna_undof_bio=Этот неизвестный вид был найден заключённым в янтарь, и кто знает сколько он там пробыл! Давай попробуем ослабить стены темницы вибрациями Племенной песни! Кстати, и правда, что-то в этом монстре есть знакомое, будто его видели много-много лет назад...
 Monsters/Monster_kayna_rare_undof=<ref>Monsters/Monster_kayna_rare
-Monsters/Monster_kayna_rare_undof_bio=Носители старейшего Элемента из всех, Редкие Лаватeки - древний вид, от которого произошли все их Обыкновенные кузины. Дарованные им с почётом, замысловатые, похожие на татуировки гравюры, соответствуют их впечатляющему возрасту и растущей мудрости, эон за эоном; Вы можете себе представить, что самые старые Редкие Лаватeки являют собой настоящее зрелище! Тем не менее, сколько бы лет ни было Редкому представителю элемента, горящее свечение Элемента Огня никогда не гаснет.
+Monsters/Monster_kayna_rare_undof_bio=Носители старейшего Элемента из всех, Редкие Лаватёки - древний вид, от которого произошли все их Обыкновенные кузины. Дарованные им с почётом, замысловатые, похожие на татуировки гравюры, соответствуют их впечатляющему возрасту и растущей мудрости, эон за эоном; Вы можете себе представить, что самые старые Редкие Лаватёки являют собой настоящее зрелище! Тем не менее, сколько бы лет ни было Редкому представителю элемента, горящее свечение Элемента Огня никогда не гаснет.
 Monsters/Monster_wicka_undof=Фитилико
 Monsters/Monster_wicka_rare_undof=Редкое Фитилико
 
 Monsters/Monster_glowl=Совеникс
-Monsters/Monster_glowl_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_glowl_rare=Редкий Совеникс
-Monsters/Monster_glowl_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_glowl_young=Юный Совеникс
-Monsters/Monster_glowl_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_flowah=Цветак
-Monsters/Monster_flowah_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_flowah_rare=Редкий Цветак
-Monsters/Monster_flowah_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_flowah_young=Юный Цветак
-Monsters/Monster_flowah_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_stogg=Стегобака
-Monsters/Monster_stogg_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_stogg_rare=Редкая Стегобака
-Monsters/Monster_stogg_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_stogg_young=Юная Стегобака
-Monsters/Monster_stogg_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_stogg_undof=<ref>Monsters/Monster_stogg
 Monsters/Monster_stogg_undof_bio=Будучи алчными коллекционерами камней, Стегобаки обожают копаться в земле мощными передними лапами в поисках новых блестящих минералов. Эти рассеянные монстры также любят закапывать свои сокровища, но, к сожалению, они потом не могут вспомнить, где.
 Monsters/Monster_stogg_rare_undof=<ref>Monsters/Monster_stogg_rare
 Monsters/Monster_stogg_rare_undof_bio=Что открывается перед потрясающими таращилками всевидящей Редкой Стегобаки? Сияющая симфония из волн звука и света, которую даже вообразить не могут обычные монстры. Чтобы поделиться своими видениями, Редкие Стегобаки рисуют абстрактные картины светящимися красками.
 Monsters/Monster_salasine_undof=Саласинус
-Monsters/Monster_salasine_rare_undof=Редкий Саласинус
+Monsters/Monster_salasine_rare_undof=Редкая Саласинус
 
 Monsters/Monster_phangler=Фанглер
 Monsters/Monster_phangler_bio=На воде и на суше Фанглер обязательно протянет руку помощи! Или... плавник? Хвост? Как бы оно там ни было, этот микрофонистый плавец всегда желанный гость на любой вечеринке, который готов произвести впечатление на сцену. В нерабочее время Фанглеры, как известно, слушают подкасты и готовят смузи из киноа- какая гадость…
@@ -313,67 +227,42 @@ Monsters/Monster_tannout_rare_undof=Редкая Камбалонка
 Monsters/Monster_boskus=Шнобель
 Monsters/Monster_boskus_bio=Если вы цените свое достоинство, никогда не бросайте Шнобелю вызов в битве на пальцах! Годы тренировок с его носовым пальцем дали этому безобидному Монстру палец, достаточно сильный, чтобы поднимять сломанный Ковш и вырывать с корнем даже самые упрямые пни.
 Monsters/Monster_boskus_rare=Редкий Шнобель
-Monsters/Monster_boskus_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_boskus_young=Юный Шнобель
-Monsters/Monster_boskus_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_barrb=Колючка
-Monsters/Monster_barrb_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_barrb_rare=Редкая Колючка
-Monsters/Monster_barrb_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_barrb_young=Юная Колючка
-Monsters/Monster_barrb_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_floogull=Трубочайка
-Monsters/Monster_floogull_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_floogull_rare=Редкая Трубочайка
-Monsters/Monster_floogull_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_floogull_young=Юная Трубочайка
-Monsters/Monster_floogull_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_floogull_desert=<ref>Monsters/Monster_floogull
-Monsters/Monster_floogull_desert_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_whaddle=Утолапа
-Monsters/Monster_whaddle_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whaddle_rare=Редкая Утолапа
-Monsters/Monster_whaddle_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whaddle_young=Юная Утолапа
-Monsters/Monster_whaddle_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_woolabee=Шерстибель
-Monsters/Monster_woolabee_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_woolabee_rare=Редкий Шерстибель
-Monsters/Monster_woolabee_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_woolabee_young=Юный Шерстибель
-Monsters/Monster_woolabee_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_repatillo=Репетило
-Monsters/Monster_repatillo_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_repatillo_rare=Редкий Репетило
-Monsters/Monster_repatillo_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_repatillo_young=Юный Репетило
-Monsters/Monster_repatillo_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_rootitoot=Корнедуд
 Monsters/Monster_rootitoot_bio=Корнедуды - прирождённые организаторы вечеринок, ведь они умеют рассказывать истории, обладают завидным остроумием и жизнелюбием. На ужине у Корнедуда предлагается в два раза больше блюд, чем он может удержать на своих трубчатых присосках. Но не перегружай Монстра... ну конечно... тебе очень хотелось попробовать Большоооой салат!
 Monsters/Monster_rootitoot_rare=Редкий Корнедуд
-Monsters/Monster_rootitoot_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_rootitoot_young=Юный Корнедуд
 Monsters/Monster_rootitoot_young_bio=Спокойный ветерок, что выдувают юные Корнедуды, является ценным утешением в шумном и игривом городе. Несмотря на то, что тихий час проходит под присмотрим небожителей, всё равно слишком много спящих монстрят распологаются вокруг местного Корнедуда, что может привести к небольшой толкучке, и не самой приятной.
 
 Monsters/Monster_sooza=Суза
-Monsters/Monster_sooza_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sooza_rare=Редкая Суза
-Monsters/Monster_sooza_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sooza_young=Юная Суза
-Monsters/Monster_sooza_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_thrumble=Напевец
-Monsters/Monster_thrumble_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_thrumble_rare=Редкий Напевец
-Monsters/Monster_thrumble_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_thrumble_young=Юный Напевец
-Monsters/Monster_thrumble_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_thrumble_undof=Напевец
 Monsters/Monster_thrumble_undof_bio=Напевцы, любящие перекусить, обычно глотают лакомства целиком. Их вытянутые пищеводы сокращаются и растягиваются, пока знаменитые напевы этого счастливчика расщепляют сладости. Если же напевать на голодный желудок, в пищеводе Напевцев образуются пузырьки воздуха, вызывающие внезапный приступ хихиканья!
 Monsters/Monster_thrumble_rare_undof=<ref>Monsters/Monster_thrumble_rare
@@ -382,131 +271,79 @@ Monsters/Monster_coodaloo_undof=Черепокедова
 Monsters/Monster_coodaloo_rare_undof=Редкая Черепокедова
 
 Monsters/Monster_ziggurab=Зиккураб
-Monsters/Monster_ziggurab_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_ziggurab_rare=Редкий Зиккураб
-Monsters/Monster_ziggurab_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_ziggurab_young=Юный Зиккураб
-Monsters/Monster_ziggurab_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_wynq=Винкер
-Monsters/Monster_wynq_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wynq_rare=Редкий Винкер
-Monsters/Monster_wynq_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wynq_young=Юный Винкер
-Monsters/Monster_wynq_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_tring=Треуг
-Monsters/Monster_tring_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tring_rare=Редкий Треуг
-Monsters/Monster_tring_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tring_young=Юный Треуг
-Monsters/Monster_tring_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_bisonorus=Бизонор
 Monsters/Monster_bisonorus_bio=Для танго нужны ДВОЕ, и в данном случае для пения тоже нужны ДВОЕ. Вместе с рождения эти Огненные монстры обладают большой способностью к общению (обычно один говорит другому, что им ДВОИМ делать). С миниатюрным Императорским Бизонором на дородном Стандартном Бизоноре они неудержимо бесстрашны - за исключением того случая, когда последнему пришлось справляться с достоинством первого после необычной неисправности гардероба, связанной с какой-то, возможно, воображаемой одеждой. Когда каждый поддерживает другого, у них, кажется, всегда есть отношение к делу.
 Monsters/Monster_bisonorus_rare=Редкий Бизонор
-Monsters/Monster_bisonorus_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bisonorus_young=Юный Бизонор
-Monsters/Monster_bisonorus_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_yelmut=Кричашлем
-Monsters/Monster_yelmut_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yelmut_rare=Редкий Кричашлем
-Monsters/Monster_yelmut_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yelmut_young=Юный Кричашлем
-Monsters/Monster_yelmut_young_bio=Данные отсутствуют. Приходите позже.
-
 Monsters/Monster_flumox=Овцебык
-Monsters/Monster_flumox_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_flumox_rare=Редкий Овцебык
-Monsters/Monster_flumox_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_flumox_young=Юный Овцебык
-Monsters/Monster_flumox_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_flumox_meduza=<ref>Monsters/Monster_flumox
-Monsters/Monster_flumox_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_krillby=Кребет
-Monsters/Monster_krillby_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_krillby_rare=Редкий Кребет
-Monsters/Monster_krillby_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_krillby_young=Юный Кребет
-Monsters/Monster_krillby_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Krillby=Кребет
 Monsters/Monster_krillby_dof=Кребет
 Monsters/Monster_krillby_dof_bio=Неясно, достаточно ли мощны рудиментарные крылья Кребета для продолжительного полета, но этот Огненный Монстр чувствует себя лучше на земле, чем в воздухе. Его когти позволяют легко маневрировать на самых разных ландшафтах, а его крылья направляют воздух внутри и вокруг их похожих на окарину тел, помогая издавать прекрасные свистки, которыми они известны. Это также регулирует температуру тела Кребета при очень быстром беге, что вам часто приходится делать, когда вы выглядите так аппетитно, как Кребет!
 Monsters/Krillby_bio=Неясно, достаточно ли мощны рудиментарные крылья Кребета для продолжительного полета, но этот Огненный Монстр чувствует себя лучше на земле, чем в воздухе. Его когти позволяют легко маневрировать на самых разных ландшафтах, а его крылья направляют воздух внутри и вокруг их похожих на окарину тел, помогая издавать прекрасные свистки, которыми они известны. Это также регулирует температуру тела Кребета при очень быстром беге, что вам часто приходится делать, когда вы выглядите так аппетитно, как Кребет!
 
 Monsters/Monster_sneyser=Чихарда
-Monsters/Monster_sneyser_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sneyser_rare=Редкая Чихарда
-Monsters/Monster_sneyser_rare_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_sneyser_young=Юная Чихарда 
-Monsters/Monster_sneyser_young_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_sneyser_young=Юная Чихарда
 
 Monsters/Monster_edamimi=Эдамими
-Monsters/Monster_edamimi_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_edamimi_rare=Редкая Эдамими
-Monsters/Monster_edamimi_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_edamimi_young=Юная Эдамими
-Monsters/Monster_edamimi_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_pongping=ПонгПинг
-Monsters/Monster_pongping_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pongping_rare=Редкий ПонгПинг
-Monsters/Monster_pongping_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pongping_young=Юный ПонгПинг
-Monsters/Monster_pongping_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pongping_meduza=<ref>Monsters/Monster_pongping
-Monsters/Monster_pongping_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_incisaur=Зубозавр
-Monsters/Monster_incisaur_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_incisaur_rare=Редкий Зубозавр
-Monsters/Monster_incisaur_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_incisaur_young=Юный Зубозавр
-Monsters/Monster_incisaur_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_tiawa=Диадама
 Monsters/Monster_tiawa_bio=Зарекомендовавшая себя как сильный лидер, само присутствие Диадамы предполагает успокаивающую мудрость. Перед лицом невзгод королевский Монстр из 4 Элементов просто расцветает своей короной из досок и берётся за любую ситуацию или вызов с помощью своего благородного сердца (с возрастом у него вырастает второй глаз вместе со вторым глазом). В течение многих лет Монстры следовали знающему ритму барабанных цифр Диадамы, создавая тонкие мелодии. Даже сегодня Диадама продолжает давать бесценные советы всем и будущим поколениям.
 Monsters/Monster_tiawa_rare=Редкая Диамада
-Monsters/Monster_tiawa_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tiawa_young=Юная Диадама
-Monsters/Monster_tiawa_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_candelavra=Канделявра
-Monsters/Monster_candelavra_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_candelavra_rare=Редкая Канделявра
-Monsters/Monster_candelavra_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_candelavra_young=Юная Канделявра
-Monsters/Monster_candelavra_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_drummidary=Друммидан
-Monsters/Monster_drummidary_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_drummidary_rare=Редкий Друммидан
-Monsters/Monster_drummidary_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_drummidary_young=Юный Друммидан
-Monsters/Monster_drummidary_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_bowhead=Смычокит
-Monsters/Monster_bowhead_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bowhead_rare=Редкий Смычокит
-Monsters/Monster_bowhead_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bowhead_young=Юный Смычокит
-Monsters/Monster_bowhead_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_tuskski=Бивеньски
-Monsters/Monster_tuskski_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tuskski_rare=Редкий Бивеньски
-Monsters/Monster_tuskski_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tuskski_young=Юный Бивеньски
-Monsters/Monster_tuskski_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_gnarls=Ньарлы
-Monsters/Monster_gnarls_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gnarls_rare=Редкие Ньарлы
-Monsters/Monster_gnarls_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gnarls_young=Юные Ньарлы
-Monsters/Monster_gnarls_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Gnarls=Ньарлы
 Monsters/Gnarls_bio=В зависимости от того, как вы на это смотрите, Ньарлы как больше, так и меньше любого другого Монстра из пяти Элементов. Больше в том смысле, что каждое "существо" на самом деле состоит из множества организмов, а не только из одного; и меньше, потому что сами Ньарлы на самом деле довольно крошечные! Кто-то может сказать, что это не более чем паразитические лианы, которые прикрепляются к дереву и координируют свои действия, чтобы перехватить скрытые двигательные функции растения. Тогда остается просто совместными усилиями "оживить" ствол и ветви дерева, чтобы придать ему полный диапазон движения. Каждый сучок работает на противоположной стороне дерева и синхронно соединяет свои усики, образуя "рот", через который может дуть ветер, производя звук. К счастью, дерево не воспринимает это превращение как неприятность - вместо этого оно наслаждается возможностью исследовать Мир Монстров и сочинять музыку! Еще одна милость заключается в том, что двойной интеллект главного Босса Растения удовлетворяется тем, что придерживается одного дерева - нет необходимости "заражать" другое.
 
@@ -514,30 +351,25 @@ Monsters/Gnarls_bio=В зависимости от того, как вы на э
 Monsters/Monster_theremind=Терменум
 Monsters/Monster_theremind_bio=Извилистый мозг Терменума может вызвать некоторую тревогу у тех, кто никогда не имел дела с "Биологией Монстров". Мы имеем в виду, что он находится на голове и его видят все! Однако, будьте уверены, что эти мозги хорошо защищены толстой оболочкой, которая предотвращает травмы от всевозможных кувырков и падений, потому что Терменумы не часто ходят пешком, для них гораздо эффективнее просто парить!
 Monsters/Monster_theremind_rare=Редкий Терменум
-Monsters/Monster_theremind_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_theremind_young=Юный Терменум
 Monsters/Monster_theremind_young_bio=Юные Терменумы такие озорники! Благодаря своими псионическим способностям они могут перетаскивать предметы силой мысли. И они... Очень часто этим пользуются. Там где Маленький Терменум, там и сплошной беспорядок. Игрушки разлетаются в стороны, бьётся посуда! А вот уже и чей-то обед оказался прямо на голове одного из малышей. Но помимо наведения "творческого" беспорядка у мозговитых друзей есть и другие хобби. Они любят показывать толпе разные фокусы с исчезновением, картами и зверьками в шляпе. Несмотря на озорной характер, все любят юного Терменума.
 Monsters/Monster_theremind_meduza=<ref>Monsters/Monster_theremind
 Monsters/Monster_theremind_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_clackula=Цокула
-Monsters/Monster_clackula_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_clackula_rare=Редкая Цокула 
-Monsters/Monster_clackula_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_clackula_young=Юная Цокула
 Monsters/Monster_clackula_young_bio=В то время как Юный Цокула довольно застенчив, то его руки - это нечто иное. Прямо руки - загребуки! Проще говоря, живут своей жизнью. Случайный щелчок их острых молочных зубов пугает многих, хотя и друзья монстрята стараются сохранять терпение. Но всё же у живых рук есть и плюсы. Цокула может обучать манерам за столом вдвойне эффективнее.
 
 Monsters/Monster_fluoress=Флуорес
 Monsters/Monster_fluoress_bio=Флуорес может показаться тусклой, но это лишь на первый взгляд. Когда Флуорес поёт с другими монстрами, она радостно демонстрирует свою юбку из флуорофилла, освещая темноту. Хотя причина этой странной реакции, а также происхождение флуорофилла остаются загадкой, Флуорес всегда показывает свою красоту чтобы её оценили.
 Monsters/Monster_fluoress_rare=Редкая Флуорес
-Monsters/Monster_fluoress_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fluoress_young=Юная Флуорес
 Monsters/Monster_fluoress_young_bio=Несмотря на свою юность, Флуорес могут играть чудесные колыбельные. И это звучит так красиво что они убаюкивают сами себя во время игры! Забавно, но юные Флуорес сами по себе редко удерживают внимание, поскольку они могут часами зависать смотря в одну точку и тыча в самых разных существ, что обитают на Летучем Городе.
 
 Monsters/Monster_flootfly=Мухофлейт
 Monsters/Monster_flootfly_bio=Мистический Мухофлейт - один из наиболее распространённых монстров, на которых можно наткнуться в Затерянных Землях, так как это чуть ли ни самый дружелюбный монстр во всём мире! Мухофлейты очень любят устраивать чаепития в самых причудливых местах! Приглашения на чаепитие всегда почитаются и принимаются с радостью, так как это хороший шанс для того чтобы поболтать и немного посплетничать.
 Monsters/Monster_flootfly_rare=Редкий Мухофлейт
-Monsters/Monster_flootfly_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_flootfly_young=Юный Мухофлейт
 Monsters/Monster_flootfly_young_bio=Вжух! Шустрые Мухофлейтики жаждут приключений и парят в небесах. Никто никогда не видел их без своих таинственных масок. Говорят, что они ищут что-то давно потерянное...
 
@@ -547,63 +379,42 @@ Monsters/Monster_varrow_rare=Редкая Варда
 Monsters/Monster_varrow_rare_bio=Что вы получите, если воткнете иголку в ореховую скорлупу, в ягоду, в ткань, а затем положите её в сундук и закопаете на дне болотном? Редкую Варду, вот что! Эти экстравагантные создания имеют склонность ко всему загадочному и парадоксальному - включая самих себя! До сих пор не удалось выяснить как появились эти странные монстры. А они, в свою очередь, часто возникают здесь в разных местах и хвастаются своей одеждой и безделушками из далёких земель, давая каждому повод позавидовать...
 
 Monsters/Monster_bonkers=Шибни
-Monsters/Monster_bonkers_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bonkers_rare=Редкие Шибни
-Monsters/Monster_bonkers_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bonkers_young=Юные Шибни
-Monsters/Monster_bonkers_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_gob=Комок
-Monsters/Monster_gob_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gob_rare=Редкий Комок
-Monsters/Monster_gob_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gob_young=Юный Комок
-Monsters/Monster_gob_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_likho=Урыло
 Monsters/Monster_likho_bio=Если вы когда-нибудь увидите Урыло, то просто знайте, что вы только что наткнулись на очень славного монстра! Урыло - маленькое перекати-поле, которое катается повсюду, собирая все растения на своём пути, и обычно дарит некоторые из них другим монстрам, даже если эти растения ему не симпатизируют, как дарителю. Но это ещё не всё! Когда Урыло останавливается, он начинает запевать свою... "Замечательную" арию для товарищей-соэлементалей, которая обычно заканчивается тем, что аудитория начинает кричать ему "ПРЕКРАТИ!!!". Они просто ничего не смыслят в искусстве.
 Monsters/Monster_likho_rare=Редкое Урыло
-Monsters/Monster_likho_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_peckidna=Тукидна
-Monsters/Monster_peckidna_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_peckidna_rare=Редкая Тукидна
-Monsters/Monster_peckidna_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_peckidna_young=Юная Тукидна
-Monsters/Monster_peckidna_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_hippityhop=Хиппити-Хоп
-Monsters/Monster_hippityhop_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hippityhop_rare=Редкий Хиппити-Хоп
-Monsters/Monster_hippityhop_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hippityhop_young=Юный Хиппити-Хоп
-Monsters/Monster_hippityhop_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_poppette=Пузыретта
-Monsters/Monster_poppette_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_poppette_rare=Редкая Пузыретта
-Monsters/Monster_poppette_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_poppette_young=Юная Пузыретта
-Monsters/Monster_poppette_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_denchuhs=Челюстяги
 Monsters/Monster_denchuhs_bio=Низкорослые Челюстяги очень похожи на дедушкины вставные челюсти: прекрасно работают сообща, но часто выпадают! При такой внешней схожести разногласий не избежать, однако характеры их отличаются сильнее, чем лёд и пламя: словоохотливый против угрюмого, сангвиник против стоика, и беззаботный против это-мы-уже-проходили. Но всё, чего хочется маленьким Челюстягам после длинного дня - это положить что-нибудь вкусное в мега-рот и подержаться за ручку.
 Monsters/Monster_denchuhs_rare=Редкие Челюстяги 
-Monsters/Monster_denchuhs_rare_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_denchuhs_young=Юные Челюстяги 
-Monsters/Monster_denchuhs_young_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_denchuhs_young=Юные Челюстяги
 
 Monsters/Monster_wadee=Вади-Ной
 Monsters/Monster_wadee_bio=Глубоко-глубоко в самой мрачной из мрачных глубин есть подводные земли, потерянные во времени. Здесь обитало много разных монстров, и в настоящее время многие вышли оттуда на поверхность. Если решите искупаться в туманном центре болотных заводей Вечнозеленого Леса, то вы можете услышать "сырое" «зачееем», похожее на звуки Вади-Ноя, одного из наших исследований. Хоть это и была красивая рыба на глубине, но пребывание на суше коренным образом изменило её, в результате чего его жабры сжались, ласты превратились в руки, а тело слегка раздулось. Возможно эти изменения кажутся незначительными, но они означают, что Вади-Ной больше не сможет на долго вернуться к себе домой на глубину.  Тем не менее, Вади относится к этому дружелюбно и использует свои светящиеся подушечки, чтобы помочь другим подводным путешественникам, и является другом многих на поверхности и под водой. Однако глубоко в душе Вади-Ной скучает по красотам своего родного кораллового рифа и мелодичным песням Рачкового Хора…
 Monsters/Monster_wadee_rare=Редкий Вади-Ной
-Monsters/Monster_wadee_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cranile=Черепостук
 Monsters/Monster_cranile_bio=Этот двухэлементный монстр, усыпанный драгоценными камнями, не знает страха - да и вообще почти ничего не видит! Полагаясь на свои верные зри-огурчики для большей части своего и без того весьма ограниченного зрения и слуха, Черепостук остаётся крайне чудаковатым существом. Когда он не топает вокруг совершенно хаотично, его часто можно увидеть участвующим в гонках, против абсолютно никого, или поедающим камни. Это почти как Безъобраз - честно говоря, кажется, что это описание и не нуждается в дальнейшем продолжении.
 Monsters/Monster_cranile_rare=Редкий Черепостук
-Monsters/Monster_cranile_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cranile_young=Юный Черепостук
-Monsters/Monster_cranile_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dipster_1_new=До
 Monsters/Monster_dipster_1_new_bio=<ref>DipstersBio
@@ -627,94 +438,58 @@ Monsters/Monster_dipster_7_new=Си
 Monsters/Monster_dipster_7_new_bio=<ref>DipstersBio
 
 Monsters/Monster_bulbo=Скрецоколь
-Monsters/Monster_bulbo_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bulbo_rare=Редкий Скрецоколь
-Monsters/Monster_bulbo_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bulbo_young=Юный Скрецоколь
-Monsters/Monster_bulbo_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_squot=Хватень
-Monsters/Monster_squot_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_squot_rare=Редкий Хватень
-Monsters/Monster_squot_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_squot_young=Юный Хватень
-Monsters/Monster_squot_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_yuggler=Йоглер
-Monsters/Monster_yuggler_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yuggler_rare=Редкий Йоглер
-Monsters/Monster_yuggler_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yuggler_young=Юный Йоглер
-Monsters/Monster_yuggler_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_hawlo=Пустал
-Monsters/Monster_hawlo_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hawlo_rare=Редкий Пустал
-Monsters/Monster_hawlo_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hawlo_young=Юный Пустал
-Monsters/Monster_hawlo_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_pluckbill=Клювострун
-Monsters/Monster_pluckbill_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pluckbill_rare=Редкий Клювострун
-Monsters/Monster_pluckbill_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pluckbill_young=Юный Клювострун
-Monsters/Monster_pluckbill_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_wimmzies=Причуды
-Monsters/Monster_wimmzies_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wimmzies_rare=Редкие Причуды
-Monsters/Monster_wimmzies_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wimmzies_young=Юные Причуды
-Monsters/Monster_wimmzies_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Whimmzies=Причуды
 Monsters/Whimmzies_bio=Причуды - шарообразный хор Монстров, который буквально разрывает по швам от восторга. Именно этому безудержному ликованию Причуды обязаны своим залатанным видом: под костюмами тонкой работы кроется туманная дымка, из которой состоят тела Причуд! Они - не просто комочки с восхитительными ресничками и ножками, которые задорно пляшут, эти ребята всегда бурлят радостью и, конечно же, Причудами.
 
 Monsters/Monster_xyster=Змеитца
-Monsters/Monster_xyster_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_xyster_rare=Редкая Змеитца
-Monsters/Monster_xyster_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_xyster_young=Юная Змеитца
-Monsters/Monster_xyster_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cahoot=Говоруха
-Monsters/Monster_cahoot_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cahoot_rare=Редкая Говоруха
-Monsters/Monster_cahoot_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cahoot_young=Юная Говоруха
-Monsters/Monster_cahoot_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dejajin=Дежа Джинн
-Monsters/Monster_dejajin_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_dejajin_rare=Редкий Дежа Джинн
-Monsters/Monster_dejajin_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_dejajin_young=Юный Дежа Джинн
-Monsters/Monster_dejajin_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_roarick=Рорик
-Monsters/Monster_roarick_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_roarick_rare=Редкий Рорик
-Monsters/Monster_roarick_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_roarick_young=Юный Рорик
-Monsters/Monster_roarick_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_roarick_meduza=<ref>Monsters/Monster_roarick
-Monsters/Monster_roarick_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_osstax=Столпкости
 Monsters/Monster_osstax_bio=Общеизвестно, что Столпкости начинают свою жизнь как несколько отдельных существ, которые объединяются лишь позже. Обычно на это уходят долгие-долгие годы, ведь им нужно идеально подойти друг другу, чтобы стать полноценной Столпкостью. Но те немногие, кому удаётся найти свою идеальную пару ещё в юности, выглядят именно так. Несмотря на то что Юные Столпкости обычно довольно малоподвижны, они способны придумывать всевозможные планы и затевать самые разные проделки. Они легко строят козни вместе с другими членами своей группы, используя объединённый разум, чтобы стать ещё более непредсказуемыми. Как говорится, одна голова хорошо, а две лучше!
 Monsters/Monster_osstax_rare=Редкие Столпкости
-Monsters/Monster_osstax_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_osstax_young=Юные Столпкости
-Monsters/Monster_osstax_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_knucklehead=Тыдыщ
 Monsters/Monster_knucklehead_bio=Для вида, известного своей невероятной ловкостью и мастерством, может показаться удивительным, что Тыдыщи не рождаются с такими навыками! На самом деле детёныши Тыдыщей гораздо привычнее лепят из глины бесформенные комки и играют с куклами, чем создают столь изящно вырезанные фигурки и реквизит. Какими бы юными они ни были, Юные Тыдыши часто доводят себя до отчаяния, пытаясь справиться с тонкой работой. Говорят, что немногие пережили последующие вспышки ярости...
-Monsters/Monster_knucklehead_rare=Редкий
-Monsters/Monster_knucklehead_rare_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_knucklehead_rare=Редкий Тыдыщ
 Monsters/Monster_knucklehead_young=Юный Тыдыщ
-Monsters/Monster_knucklehead_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_knucklehead_meduza=<ref>Monsters/Monster_knucklehead
-Monsters/Monster_knucklehead_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dulsylvan=Древован
 Monsters/Monster_dulsylvan_bio=Резной Древован, создание из дерева и атмосферных воздействий, скрепленный своей твёрдой сердцевиной, может показаться немного грубоватым при первом знакомстве. Известно, что он никогда не говорит и всегда хмурится. Вечному плохому настроению Древована не стоит удивляться, ведь его рот уже давно застыл в угрюмом выражении. По правде говоря, настоящий "монстр" живёт в маленьких существах, которые обитают на голове безмолвного Древована. Эти существа, которых иногда называют "Древучки", закрывают и открывают отверстия на ветвях, чтобы пропускать воздух, и дают Древованам возможность общаться со своими сородичами. Как только угрюмый монстр мистическим образом превратится в сосновую шишку, Древучки начнут быстро расти и превращаться в новых молодых Древованов!
@@ -727,175 +502,112 @@ Monsters/Monster_banno_rare=Редкий Баннокер
 Monsters/Monster_banno_rare_bio=Редкий Баннокер был здесь (твёрк)
 
 Monsters/Monster_tapicorn=Тукорог
-Monsters/Monster_tapicorn_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tapicorn_rare=Редкий Тукорог
-Monsters/Monster_tapicorn_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tapicorn_young=Юный Тукорог 
-Monsters/Monster_tapicorn_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_choral=Хоррал
 Monsters/Monster_choral_bio=Хм? Вроде бы это совершенно обычное дерево, но считайте, что вас одурачили, потому что это застенчивый протеже Ракового Хора - Хоррал! Эти маленькие мастера природного обмана используют древоподобный панцирь для защиты. Обычно они прячутся от более крупных монстров, которые даже не желают никому вреда, ведь они просто хотят поздороваться! Но, будучи довольно не общительным видом, которым они являются, Хорралы создают мощный удар своим маскировочным укрытием, если кто-то подойдёт слишком близко. Это может показаться грубым, но это просто инстинкт, за который мы не можем винить рачков.
 Monsters/Monster_choral_rare=Редкий Хоррал
-Monsters/Monster_choral_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_spytrap=Шпиоловун
-Monsters/Monster_spytrap_bio=Мухоловка
 Monsters/Monster_spytrap_rare=Редкий Шпиоловун
-Monsters/Monster_spytrap_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_spytrap_young=Юный Шпиоловун
-Monsters/Monster_spytrap_young_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_rooba=Руба
-Monsters/Monster_rooba_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_rooba=Руба.
 Monsters/Monster_rooba_rare=Редкая Руба
-Monsters/Monster_rooba_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_rooba_young=Юная Руба
-Monsters/Monster_rooba_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_tootoo=Пачка
-Monsters/Monster_tootoo_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tootoo_rare=Редкая Пачка
-Monsters/Monster_tootoo_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tootoo_young=Юная Пачка
-Monsters/Monster_tootoo_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_withur=Завяда
-Monsters/Monster_withur_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_withur_rare=Редкая Завяда
-Monsters/Monster_withur_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_withur_young=Юная Завяда
-Monsters/Monster_withur_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cantorell=Ушемор
-Monsters/Monster_cantorell_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cantorell_rare=Редкий Ушемор
-Monsters/Monster_cantorell_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cantorell_young=Юный Ушемор
-Monsters/Monster_cantorell_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_uuduk=Удудук
-Monsters/Monster_uuduk_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_uuduk_rare=Редкий Удудук
-Monsters/Monster_uuduk_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_uuduk_young=Юный Удудук
-Monsters/Monster_uuduk_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Uuduk=Удудук
 Monsters/Uuduk_bio=С каждым прожитым годом в гибком позвоночнике Удудука вырастает дополнительный позвонок. Однако почти всё тело Удудука скрыто глубоко под землёй: Удудук никогда не раскроет свой настоящий возраст! Можно догадаться о количестве дней рождения, пережитых Монстром, по царапинам и потёртостям на его впечатляющих рогах, но, возможно они указывают лишь на то, как сильно он чесался в этот день.
 
 Monsters/Monster_bridgit=Троллита
 Monsters/Monster_bridgit_bio=Обычно стереотипы говорят, что тролли, как правило, злые и живут в подвалах, но Троллита совершенно не такая! Этот мелодичный монстр - один из самых добрых, кого только можно встретить, она постоянно устраивает чаепития, соревнования по постройке мостов и многое другое. Ну, мы так думаем, на самом деле мы никогда не видели, чтобы она занималась... чем-то, кроме тех двух вещей.
 Monsters/Monster_bridgit_rare=Редкая Троллита
-Monsters/Monster_bridgit_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bridgit_young=Юная Троллита
 Monsters/Monster_bridgit_young_bio=Юные Троллиты обожают бантики, тиары и всё, что делает их ещё милее. Их волосы всегда аккуратно уложены и украшены. Однако их ручки настолько маленькие, что самостоятельно они не могут справиться со всем этим! К счастью, рядом почти всегда находится заботливый Сканаситар, который с радостью помогает им распутывать их вечно запутанные волосы.
 
 Monsters/Monster_periscorp=Перискорп
-Monsters/Monster_periscorp_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_periscorp_rare=Редкий Перискорп
-Monsters/Monster_periscorp_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_periscorp_young=Юный Перискорп
-Monsters/Monster_periscorp_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_banjaw=Банджуй
-Monsters/Monster_banjaw_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_banjaw_rare=Редкий Банджуй
-Monsters/Monster_banjaw_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_banjaw_young=Юный Банджуй
-Monsters/Monster_banjaw_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_fiddlement=Накаляч
-Monsters/Monster_fiddlement_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fiddlement_rare=Редкий Накаляч
-Monsters/Monster_fiddlement_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fiddlement_young=Юный Накаляч
-Monsters/Monster_fiddlement_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_clavignat=Клавижук
-Monsters/Monster_clavignat_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_clavignat_rare=Редкий Клавижук
-Monsters/Monster_clavignat_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_clavignat_young=Юный Клавижук
-Monsters/Monster_clavignat_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_gday=Гу-дэй
-Monsters/Monster_gday_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gday_rare=Редкий Гу-дэй
-Monsters/Monster_gday_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gday_young=Юный Гу-дэй
-Monsters/Monster_gday_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_larvaluss=Личинкус
-Monsters/Monster_larvaluss_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_larvaluss_rare=Редкий Личинкус
-Monsters/Monster_larvaluss_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_larvaluss_young=Юный Личинкус
-Monsters/Monster_larvaluss_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_frondley=Пальмуг
 Monsters/Monster_frondley_bio=Пальмуг - это заммммммммечательный экземпляр! В его грушеподобном телосложении и пальцах есть сходство с представителями элемента воды, но они эволюционировали в другом направлении нежели их "лимонный" собрат. Потустороннее и безмятежное гудение Пальмугов эхом разносится по островам, и это знак того что они где-то поблизости. Некоторые монстры заходят очень далеко и записывают мычание, чтобы быстрее засыпать ночью. В свободное от пения время Пальмуги с удовольствием ухаживают за своими яркими прическами, всегда пытаясь найти лучшее положение для их укладки. 
-Monsters/Monster_frondley_rare=Редкий Пальмуг
-Monsters/Monster_frondley_rare_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_frondley_rare=Редкий Пальмуг.
 Monsters/Monster_frondley_young=Юный Пальмуг
 Monsters/Monster_frondley_young_bio=Юные Пальмуги хоть и совсем крошечные, но очень любят греться на солнце среди пальм, приподнимая свои пряди волос. Исследования показывают, что они делают это, чтобы поглощать больше солнечных лучей и ускорять рост волос, ведь их локоны ещё не доросли до уровня глаз. Иногда другие монстры принимают их за настоящую пальму и хорошенько трясут, чтобы посмотреть, что из неё выпадет. Но Пальмуги совсем не возражают, они настолько спокойны и умиротворённы, что их практически невозможно рассердить.
 
 Monsters/Monster_mushaboom=Мушабум
-Monsters/Monster_mushaboom_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_mushaboom_rare=Редкий Мушабум
-Monsters/Monster_mushaboom_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_mushaboom_young=Юный Мушабум
-Monsters/Monster_mushaboom_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_gloptic=Клейкоглаз
-Monsters/Monster_gloptic_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gloptic_rare=Редкий Клейкоглаз
-Monsters/Monster_gloptic_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gloptic_young=Юный Клейкоглаз
 Monsters/Monster_gloptic_young_bio=Детёныши Клейкоглазов печально известны своей невероятной скользкостью. Особая слизь покрывает почти всё их тело, это следствие постоянных падений и кувырков из-за детской неуклюжести. Поскольку Клейкоглазы происходят из рода, приспособленного к гораздо меньшей силе тяжести, им требуется много времени, чтобы привыкнуть к нормальному передвижению. Из-за этого можно подумать, что их большой открытый глаз подвергается наибольшей опасности, но это вовсе не так. На самом деле вокруг глаза у детёнышей имеется гораздо более толстое защитное покрытие, своеобразная вторая линза, которая сбрасывается по мере взросления. Правда, эта линза часто покрывается слизью, ещё сильнее затуманивая зрение Клейкоглаза и вызывая новые падения и спотыкания. Поэтому при создании идеальной среды обитания для Юного Клейкоглаза лучше использовать мягкий пудинг.
 
-Monsters/Monster_blowt=Дуйт
-Monsters/Monster_blowt_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_blowt=Дуйт.
 Monsters/Monster_blowt_rare=Редкий Дуйт
-Monsters/Monster_blowt_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_blowt_young=Юный Дуйт
-Monsters/Monster_blowt_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_plinkajou=Трынькажу
-Monsters/Monster_plinkajou_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_plinkajou_rare=Редкий Трынькажу
-Monsters/Monster_plinkajou_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_plinkajou_young=Юный Трынькажу
-Monsters/Monster_plinkajou_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_stoopa=Ступа
 Monsters/Monster_stoopa_bio=Не так уж и много известно о таинственном болоте глубоко в чаще Вечнозелёного леса, но легенды говорят о странном монстре, который наблюдает за местными обитателями и делает их песнь лучше. И наверное ты знаешь о ком идёт речь... Конечно же это Ступа! Она ещё больший эксперт по переработке ненужных материалов, чем Конгушка, она находит в природе всё, что угодно, чтобы сделать музыку, но иногда она делает некоторые исключения из своего правила, основанного на природе, что доказано этими... кастрюлями и сковородками на её ступе? Забавно что она назвала своё "средство передвижения" в честь себя. Или же наоборот? До сих пор не так много известно об этом монстре, да и сама Ступа предпочитает сохранять свою жизнь в секрете, также умело, орудуя своим странным посохом она охраняет и секреты Болота.
 Monsters/Monster_stoopa_rare=Редкая Ступа
-Monsters/Monster_stoopa_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_pladdie=Пледень
-Monsters/Monster_pladdie_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pladdie_rare=Редкий Пледень
-Monsters/Monster_pladdie_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pladdie_young=Юный Пледень
-Monsters/Monster_pladdie_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Pladdie=Пледень
 Monsters/Pladdie_bio=Собирайтесь в круг, ребята и девчата, послушать уникальные звуки Пледня: властителя Фей! Прядильщик пряжи и рассказчик сказаний, этот клетчатый талант всегда подбирает эпичную музыку для своих рассказов. Неважно, будет ли это история о крылатых Монстрах, плывущих в ночи, или о морском колоссе, охраняющем глубинные воды, Пледень мастерски удерживает слушателей песнями и плясками.
 
 Monsters/Monster_enchatling=Чародейчик
-Monsters/Monster_enchatling_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_enchatling_rare=Редкий
-Monsters/Monster_enchatling_rare_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_enchatling_young=Юный
-Monsters/Monster_enchatling_young_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_enchatling_rare=Редкий Чародейчик
+Monsters/Monster_enchatling_young=Юный Чародейчик
 
 Monsters/Monster_gecho=Гекхо
 
 (((Эфирные)))
 Monsters/Monster_ghazt=Вужас
-Monsters/Monster_ghazt_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_ghazt_rare=Редкий Вужас
-Monsters/Monster_ghazt_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_ghazt_young=Юный Вужас
-Monsters/Monster_ghazt_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_ghazt_undof=<ref>Monsters/Monster_ghazt
 Monsters/Monster_ghazt_undof_bio=Невероятный Вужас показывается только при идеальном стечении обстоятельств. Его гибкое тело, наполненное эфирной энергией плазмы, и умение становиться неосязаемым позволяют ему с лёгкостью скрывать своё присутствие. Однако по этим же причинам он периодически против воли перемещается между измерениями. Вужас любит играть с другими монстрами, но скрещиваться может только с монстрами своего класса.
 Monsters/Monster_ghazt_rare_undof=<ref>Monsters/Monster_ghazt_rare
@@ -904,350 +616,215 @@ Monsters/Monster_oraghoul_undof=Орапырь
 Monsters/Monster_oraghoul_rare_undof=Редкий Орапырь
 
 Monsters/Monster_grumpyre=Сварливир
-Monsters/Monster_grumpyre_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_grumpyre_rare=Редкий Сварливир
-Monsters/Monster_grumpyre_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_grumpyre_young=Юный Сварливир
-Monsters/Monster_grumpyre_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_reebro=Церебро
 Monsters/Monster_reebro_bio=Церебро, пожалуй, один из самых странных известных Монстров. От рождения он представляет собой просто неестественно разросшийся мозг, и по мере взросления этот Эфирный Монстр применяет все свои познания в технологиях, чтобы отрастить себе механическое тело. Церебро или, как зовут его друзья-Монстры, просто "Бро", идёт по жизни с расслабленной улыбкой, получает от неё только удовольствие и следит за всеми последними трендами. Он всегда готов помочь другим разобраться с техникой - даже если его главное решение всех проблем - это "попробуйте выключить и ещё раз включить".
 Monsters/Monster_reebro_rare=Редкий Церебро
-Monsters/Monster_reebro_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_reebro_young=Юный Церебро
-Monsters/Monster_reebro_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_jeeode=Геода
-Monsters/Monster_jeeode_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jeeode_rare=Редкая Геода
-Monsters/Monster_jeeode_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jeeode_young=Юная Геода
-Monsters/Monster_jeeode_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_humbug=Жужжук
-Monsters/Monster_humbug_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_humbug_rare=Редкий Жужжук
-Monsters/Monster_humbug_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_humbug_young=Юный Жужжук
-Monsters/Monster_humbug_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_whisp=Шёпа
-Monsters/Monster_whisp_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whisp_rare=Редкая Шёпа
-Monsters/Monster_whisp_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whisp_young=Юная Шёпа
-Monsters/Monster_whisp_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_nebulob=Небулоб
-Monsters/Monster_nebulob_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_nebulob_rare=Редкий Небулоб
-Monsters/Monster_nebulob_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_nebulob_young=Юный Небулоб
-Monsters/Monster_nebulob_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_sox=Лисакс
-Monsters/Monster_sox_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sox_rare=Редкий Лисакс
-Monsters/Monster_sox_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sox_young=Юный Лисакс
-Monsters/Monster_sox_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sox_meduza=<ref>Monsters/Monster_sox
-Monsters/Monster_sox_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_jellbilly=Гордуза
-Monsters/Monster_jellbilly_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jellbilly_rare=Редкая Гордуза
-Monsters/Monster_jellbilly_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jellbilly_young=Юная Гордуза
-Monsters/Monster_jellbilly_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_arackulele=Паукулеле
 Monsters/Monster_arackulele_bio=У Эфирного Монстра Паукулеле талантов не меньше, чем лап. Ничто не доставляет ему больше удовольствия, чем струны самодельного хордофона. Воодушевляющий и бодрый стиль игры хорошо отображает его отношение к самой жизни: пусть все мы - лишь песчинки на просторах мультивселенной, стоит достаточному количеству монстров подхватить песнь, и нет ничего невозможного!
 Monsters/Monster_arackulele_rare=Редкий Паукулеле
-Monsters/Monster_arackulele_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_arackulele_young=Юный Паукулеле
-Monsters/Monster_arackulele_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_boodoo=Буду
-Monsters/Monster_boodoo_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_boodoo_rare=Редкий Буду
-Monsters/Monster_boodoo_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_boodoo_young=Юный Буду
-Monsters/Monster_boodoo_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_kazilleon=Хамиллeон
-Monsters/Monster_kazilleon_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_kazilleon_rare=Редкий Хамиллeон
-Monsters/Monster_kazilleon_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_kazilleon_young=Юный Хамиллeон
-Monsters/Monster_kazilleon_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_bellowfish=Волбрюхий
-Monsters/Monster_bellowfish_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bellowfish_rare=Редкий Волбрюхий
-Monsters/Monster_bellowfish_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bellowfish_young=Юный Волбрюхий
-Monsters/Monster_bellowfish_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dragong=Драконг
-Monsters/Monster_dragong_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_dragong_rare=Редкий Драконг
-Monsters/Monster_dragong_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_dragong_young=Юный Драконг
-Monsters/Monster_dragong_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_fungpray=Грибомол
-Monsters/Monster_fungpray_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fungpray_rare=Редкий Грибомол
-Monsters/Monster_fungpray_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fungpray_young=Юный Грибомол
-Monsters/Monster_fungpray_young_bio=Данные отсутствуют. Приходите позже.
-
 
 (((Сезонные)))
 Monsters/Monster_punkleton=Скелетыква
-Monsters/Monster_punkleton_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_punkleton_rare=Редкая Скелетыква
-Monsters/Monster_punkleton_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_punkleton_young=Юная Скелетыква
-Monsters/Monster_punkleton_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_yool=Йоле
-Monsters/Monster_yool_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yool_rare=Редкий Йоле
-Monsters/Monster_yool_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yool_young=Юный Йоле
-Monsters/Monster_yool_young_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_yool_young_bio=Что-то, что привлекло внимание как монстров, так и исследователей, - это удивительно длинная борода Юного Йоле! Функционируя почти как дополнительный придаток, они используют этот свой "хвостик", чтобы забраться высоко на елку, что идеально подходит для установки елочной игрушки без помощи взрослых. К несчастью для них, эта борода не растет с возрастом, из-за чего многие взрослые мальчишки пытаются отрастить шерсть, чтобы вернуть себе воспоминания детства. Ах, старые добрые времена...
 
 Monsters/Monster_schmoochle=Поцелщик
-Monsters/Monster_schmoochle_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_schmoochle_rare=Редкий Поцелщик
-Monsters/Monster_schmoochle_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_schmoochle_young=Юный Поцелщик
-Monsters/Monster_schmoochle_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_blabbit=Пузаяц
-Monsters/Monster_blabbit_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_blabbit_rare=Редкий Пузаяц
-Monsters/Monster_blabbit_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_blabbit_young=Юный Пузаяц
-Monsters/Monster_blabbit_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_hoola=Хула
-Monsters/Monster_hoola_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hoola_rare=Редкая Хула 
-Monsters/Monster_hoola_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hoola_young=Юная Хула
-Monsters/Monster_hoola_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_gobbleygourd=Кулдыкалабас
-Monsters/Monster_gobbleygourd_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gobbleygourd_rare=Редкий Кулдыкалабас
-Monsters/Monster_gobbleygourd_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gobbleygourd_young=Юный Кулдыкалабас
-Monsters/Monster_gobbleygourd_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Gobbley=Кулдыкалыбас
 
 Monsters/Monster_clavavera=Клававера
-Monsters/Monster_clavavera_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_clavavera_rare=Редкая Клававера
-Monsters/Monster_clavavera_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_clavavera_young=Юная Клававера
-Monsters/Monster_clavavera_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_viveine=Живербена
-Monsters/Monster_viveine_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_viveine_rare=Редкая Живербена
-Monsters/Monster_viveine_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_viveine_young=Юная Живербена
-Monsters/Monster_viveine_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_jamboree=Джем Всборе
 Monsters/Monster_jamboree_bio=Сезонная Хижина полна доброжелательности и ликования - что правда, то правда. И это во многом благодаря присутствию Джема Всборе! В течении многих лет самопровозглашённый лидер Хижины брал на себя задачу организовать сезонный декор, украшающий каждый уголок плавучего убежища. Это очень терпеливый Монстр, который каждый год с нетерпением ждёт Юбилейного месяца, когда он устраивает огромную вечеринку для мигрирующих Сезонных Монстров, возвращающихся домой на ночлег! Джем Всборе ценит, когда на таких вечеринках подают разнообразные угощения, кроме торта.
 Monsters/Monster_jamboree_rare=Редкий Джем Всборе
-Monsters/Monster_jamboree_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jamboree_young=Юный Джем Всборе
-Monsters/Monster_jamboree_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jamboree_undof=<ref>Monsters/Monster_jamboree
 Monsters/Monster_jamboree_undof_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jamboree_rare_undof=<ref>Monsters/Monster_jamboree_rare
-Monsters/Monster_jamboree_rare_undof_bio=Целых десять лет прошло.\nВ оркестр чудаков\nМного новых лиц ввлекло\nДесять Монстровских веков.\n\nВ далёком измерении одном,\nМонстрики, звеня,\nВстречают нового их гостя - \nРедкого Праздня!\n\nРимонной свечкою-крестом\nИ глазурью шоколадной\nСверкает он хоть ясным днём,\nХоть в туман обетованный.\n\nЯрким пламенем горит\nКорона из свечей,\nИ праздник монстрам предстоит\nТысячу ночей.
+Monsters/Monster_jamboree_rare_undof_bio=Целых десять лет прошло.\nВ оркестр чудаков\nМного новых лиц вовлекло\nДесять Монстровских веков.\n\nВ далёком измерении одном,\nМонстрики, звеня,\nВстречают нового их гостя - \nРедкого Джема Всборе!\n\nРимонной свечкою-крестом\nИ глазурью шоколадной\nСверкает он хоть ясным днём,\nХоть в туман обетованный.\n\nЯрким пламенем горит\nКорона из свечей,\nИ праздник монстрам предстоит\nТысячу ночей.
 Monsters/Monster_eyesing_undof=Глаз-урь
 Monsters/Monster_eyesing_rare_undof=Редкая Глаз-урь
 
 Monsters/Monster_carillong=Карильонг
-Monsters/Monster_carillong_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_carillong_rare=Редкий Карильонг
-Monsters/Monster_carillong_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_carillong_young=Юный Карильонг
-Monsters/Monster_carillong_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_carillong_meduza=<ref>Monsters/Monster_carillong
-Monsters/Monster_carillong_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_whizbang=Фейерверк
-Monsters/Monster_whizbang_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whizbang_rare=Редкий Фейерверк
-Monsters/Monster_whizbang_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whizbang_young=Юный Фейерверк
-Monsters/Monster_whizbang_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_monculus=Гомонкул
-Monsters/Monster_monculus_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_monculus_rare=Редкий Гомонкул
-Monsters/Monster_monculus_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_monculus_young=Юный Гомонкул
-Monsters/Monster_monculus_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_ffydill=Склеверипка
 Monsters/Monster_ffydill_bio=Уютно расположившись среди клевера, вы найдете карманную Склеверипку. Ясноглазый Сезонный Монстр с талантом к игре на скрипке и склонностью к вечеринкам, тем не менее, это необычное зрелище большую часть года. Он кажется наиболее активным во время весеннего равноденствия, что имеет смысл, учитывая его пышное представление. Ходят слухи, что рыло Склеверипки можно использовать, чтобы вынюхивать тайники с монетами, которые она затем щедро раздаёт своим братьям-Монстрам. Тем не менее, самая большая претензия морды на известность, предположительно, заключалась в том, что она послужила источником вдохновения для другого фасада с длинным носом.
 Monsters/Monster_ffydill_rare=Редкая Склеверипка 
-Monsters/Monster_ffydill_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_ffydill_young=Юная Склеверипка
-Monsters/Monster_ffydill_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_booqwurm=Червнига
-Monsters/Monster_booqwurm_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_booqwurm_rare=Редкая Червнига
-Monsters/Monster_booqwurm_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_booqwurm_young=Юная Червнига
-Monsters/Monster_booqwurm_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_spurrit=Спуррит
 Monsters/Monster_spurrit_bio=Хузза? ХУЗЗААА! Этот увлечённый исследователь, который теперь находится ещё дальше от дома, чем когда-либо, счастлив исследовать этот загадочный и яркий мир.
 Monsters/Monster_spurrit_rare=Редкий Спуррит
-Monsters/Monster_spurrit_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_spurrit_young=Юный Спуррит
-Monsters/Monster_spurrit_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_spurrit_desert=<ref>Monsters/Monster_spurrit
 Monsters/Monster_spurrit_desert_bio=Хузза? Хузз-ААААХ! Этот увлечённый исследователь, очарованный древними руинами, похоже, столкнулся с некоторыми проблемами... А скорее ЧИРИКблемами. Бедный монстр всегда не успевает и звука издать, как теряется, услышав громкий крик маленького птенца одного из Пустырвятников, сидящего под его шляпой. Неожиданный гость вылупился из золотого яйца, которое Спуррит спутал с древней реликвией этого таинственного места. Все благоприятные условия под шляпой дали о себе знать.
 
 
 (((Мифические)))
 Monsters/Monster_gjoob=Гу-Джуб
-Monsters/Monster_gjoob_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gjoob_rare=Редкий Гу-Джуб
-Monsters/Monster_gjoob_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_gjoob_young=Юный Гу-Джуб
-Monsters/Monster_gjoob_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_strombonin=Стромбонин
-Monsters/Monster_strombonin_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_strombonin_rare=Редкий Стромбонин
-Monsters/Monster_strombonin_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_strombonin_young=Юный Стромбонин
-Monsters/Monster_strombonin_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_yawstrich=Стравок
-Monsters/Monster_yawstrich_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yawstrich_rare=Редкий Стравок
-Monsters/Monster_yawstrich_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_yawstrich_young=Юный Стравок
-Monsters/Monster_yawstrich_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_anglow=Светильщик
-Monsters/Monster_anglow_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_anglow_rare=Редкий Светильщик
-Monsters/Monster_anglow_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_anglow_young=Юный Светильщик
-Monsters/Monster_anglow_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_hyehehe=Гиехехе
-Monsters/Monster_hyehehe_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hyehehe_rare=Редкий Гиехехе
-Monsters/Monster_hyehehe_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_hyehehe_young=Юный Гиехехе
-Monsters/Monster_hyehehe_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_buzzinga=Бузчела
-Monsters/Monster_buzzinga_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_buzzinga_rare=Редкая Бузчела
-Monsters/Monster_buzzinga_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_buzzinga_young=Юная Бузчела
-Monsters/Monster_buzzinga_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Buzzinga=Бузчела
 Monsters/Buzzinga_bio=У всех Мифических Монстров есть кое-что общее - само их существование подвергалось сомнению на протяжении всей истории Мира Монстров. Бузчела - один из таких примеров, чьё постоянное порхание по различным измерениям Мультивселенной заставляет её чувствовать себя не более чем мифом. Тем не менее, у этого есть довольно хорошее оправдание: этот Монстр действует как опылитель цветов Мирового Дерева Стабло Мьейхурича! Используя способность своей семьи открывать сверхзвуковые пространственные пути, он собирает нектар дерева и способствует формированию совершенно новых реальностей. Когда ей нужно ненадолго осесть, Бузчела находит передышку в палящем зное остатков Живого Ядра, где много веков назад берёт начало эта вселенная.
 
-Monsters/Monster_cherubble=Херузырь
-Monsters/Monster_cherubble_bio=Данные отсутствуют. Приходите позже. 
+Monsters/Monster_cherubble=Херузырь 
 Monsters/Monster_cherubble_rare=Редкий Херузырь
-Monsters/Monster_cherubble_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cherubble_young=Юный Херузырь
-Monsters/Monster_cherubble_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_knife=Банти
 Monsters/Monster_knife_bio=Банти любимый Мифический монстр Острова Конфет. Уже много лет Банти изготавливают популярное клейкое рисовое лакомство монстр-моти, с помощью которого они также исполняют свою уникальную песню. Ходят слухи, что для того, чтобы монстр-моти издавал звук при ударе, они используют секретный ингредиент, но никто не знает, что это такое. Некоторые предполагают, что им помогла некая призрачная кошачья фигура, тот, кого Банти считает своей семьёй.
 Monsters/Monster_knife_rare=Редкая Банти
-Monsters/Monster_knife_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cataliszt=Котализатор
-Monsters/Monster_cataliszt_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cataliszt_rare=Редкий Котализатор
-Monsters/Monster_cataliszt_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_bleatnik_rock=Камень Блеяника
-Monsters/Monster_bleatnik_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bleatnik=Блеяник
-Monsters/Monster_bleatnik_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bleatnik_rare=Редкий Блеяник
-Monsters/Monster_bleatnik_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cranchee_rock=Камень Кальприза
-Monsters/Monster_cranchee_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cranchee=Кальприз
-Monsters/Monster_cranchee_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cranchee_rare=Редкий Кальприз
-Monsters/Monster_cranchee_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_sporerow_rock=Камень Споробья
-Monsters/Monster_sporerow_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sporerow=Споробей
-Monsters/Monster_sporerow_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sporerow_rare=Редкий Споробей
-Monsters/Monster_sporerow_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_pinghound_rock=Камень Звуковой Гончей
-Monsters/Monster_pinghound_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pinghound=Звуковая Гончая
-Monsters/Monster_pinghound_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pinghound_rare=Редкая Звуковая Гончая
-Monsters/Monster_pinghound_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_wheezel_rock=Камень Плеваски
-Monsters/Monster_wheezel_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wheezel=Плеваска
-Monsters/Monster_wheezel_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wheezel_rare=Редкая Плеваска
-Monsters/Monster_wheezel_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_knurv_rock=Камень Нервидения
-Monsters/Monster_knurv_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_knurv=Нервидение
-Monsters/Monster_knurv_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_knurv_rare=Редкий Нервидение
-Monsters/Monster_knurv_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_shlep_rock=Камень Вялогомотылька
-Monsters/Monster_shlep_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_shlep=Вялыймотылек
-Monsters/Monster_shlep_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_shlep_rare=Редкий Вялыймотылек
-Monsters/Monster_shlep_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Shlep=Вялыймотылек
 Monsters/Shlep_bio=Мифический Монстр Оазиса само по себе является таким благообразным Монстром, и ему наверняка иногда снятся необычные сны! Это единственное разумное объяснение Вялогомотылька, порождённого экстравагантным воображением и появившегося в пространстве Снов. Может быть, это искажённое проявление Жирочки, подстрекаемое былыми желаниями немного личного времени? Некоторые предполагают, что Вялыймотылек вдохновлён памятной, но шумной встречей с обитателем эклектично населённых коралловых рифов Живого Океана. Хорошо это или плохо. Но это вялое Мифическое Сны теперь является постоянным спутником на Острове Мифов, так что лучше постарайтесь ужиться!
 
-Monsters/Monster_knifedreamyth_rock=Данные отсутствуют. Приходите позже.
-Monsters/Monster_knifedreamyth_rock_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_knifedreamyth=Данные отсутствуют. Приходите позже.
-Monsters/Monster_knifedreamyth_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_knifedreamyth_rare=Данные отсутствуют. Приходите позже.
-Monsters/Monster_knifedreamyth_rare_bio=Данные отсутствуют. Приходите позже.
-
+Monsters/Monster_knifedreamyth_rock=камень Фалака каки
+Monsters/Monster_knifedreamyth=Фалак кака
+Monsters/Monster_knifedreamyth_rare=Редкий Фалак кака
 
 (((Сверхъестетсвенные)))
 Monsters/Monster_wubbox=Коробас
-Monsters/Monster_wubbox_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wubbox_awake=Коробас
-Monsters/Monster_wubbox_awake_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wubbox_undof=Коробас
 Monsters/Monster_wubbox_undof_bio=В один прекрасный день, когда Монстры прокладывали под землёй туннель, они наткнулись на огромное подземной хранилище, в котором они обнаружили несколько таинственных "Коробасов". Очень мало известно об их происхождении и назначении, но кое-что удалось понять из наблюдений за ними.\nАнализ образцов с поверхности коробок показал, что у них есть общие генетические признаки с каждым известным видом Монстров - и даже внутри есть особые отделения, использующие неизвестную доселе технологию сжатия объектов. Коробка также источает Элементальную энергию, незнакомую обитателям поверхности, - открытие, по меньшей мере, из ряда вон выходящее.
 Monsters/Monster_wubbox_undof_awake=Коробас
@@ -1259,90 +836,58 @@ Monsters/Monster_wubbox_rare_undof_awake_bio=По легенде этот Мон
 Monsters/Monster_wibbler_young=Юный Коробас
 
 Monsters/Monster_brump=Брамп
-Monsters/Monster_brump_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_brump_awake=<ref>Monsters/Monster_brump
-Monsters/Monster_brump_awake_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_brump_young=Юный Брамп
 
 Monsters/Monster_zynth=Зинт
-Monsters/Monster_zynth_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_zynth_awake=<ref>Monsters/Monster_zynth
-Monsters/Monster_zynth_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_poewk=Повек
-Monsters/Monster_poewk_bio=Данн
 Monsters/Monster_poewk_awake=<ref>Monsters/Monster_poewk
 Monsters/Monster_poewk_awake_bio=Видим ли мы настоящую морду Повека, или это маска, которую он сшил из... кто знает чего? Если это маска, то зачем он её носит? От стеснения? От холода? Или его облик страшен? Или этот Вублин увлекается косплеем? Это бы многое объяснило. Игра этого монстра - гипнотическое зрелище, полное яростной грации и контролируемого безумия.
 
 Monsters/Monster_thwok=Твок
-Monsters/Monster_thwok_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_thwok_awake=<ref>Monsters/Monster_thwok
-Monsters/Monster_thwok_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dwumrohl=Двамрол
-Monsters/Monster_dwumrohl_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_dwumrohl_awake=<ref>Monsters/Monster_dwumrohl
-Monsters/Monster_dwumrohl_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_zuuker=Зукаер
-Monsters/Monster_zuuker_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_zuuker_awake=<ref>Monsters/Monster_zuuker
-Monsters/Monster_zuuker_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_screemu=Визгэму
-Monsters/Monster_screemu_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_screemu_awake=<ref>Monsters/Monster_screemu
-Monsters/Monster_screemu_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_tympa=Литавр
-Monsters/Monster_tympa_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_tympa_awake=<ref>Monsters/Monster_tympa
-Monsters/Monster_tympa_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_dermit=Дермит
-Monsters/Monster_dermit_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_dermit_awake=<ref>Monsters/Monster_dermit
-Monsters/Monster_dermit_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cheegur=Гигаер
-Monsters/Monster_cheegur_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cheegur_awake=<ref>Monsters/Monster_cheegur
-Monsters/Monster_cheegur_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_wajje=Ваджа
-Monsters/Monster_wajje_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wajje_awake=<ref>Monsters/Monster_wajje
-Monsters/Monster_wajje_awake_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_creepuscule=Сумерок
-Monsters/Monster_creepuscule_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_creepuscule=Сумерок.
 Monsters/Monster_creepuscule_awake=<ref>Monsters/Monster_creepuscule
-Monsters/Monster_creepuscule_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_blipsqueak=Импульспрыг
-Monsters/Monster_blipsqueak_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_blipsqueak_awake=<ref>Monsters/Monster_blipsqueak
-Monsters/Monster_blipsqueak_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_scargo=Литка
-Monsters/Monster_scargo_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_scargo_awake=<ref>Monsters/Monster_scargo
-Monsters/Monster_scargo_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_astropod=Астропода
-Monsters/Monster_astropod_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_astropod_awake=<ref>Monsters/Monster_astropod
-Monsters/Monster_astropod_awake_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_pixolotl=Пиксолотль
-Monsters/Monster_pixolotl_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pixolotl_awake=<ref>Monsters/Monster_pixolotl
 Monsters/Monster_pixolotl_awake_bio=Пиксолотль - сверхъестественных масштабов шалун. Его гимнастические способности и неутолимый аппетит к компьютерным чипам (и соусам к ним) часто становятся причиной полного хаоса: этого Монстра не раз замечали за греблей хвостом, карабканьем по плавучим льдинам, застреванием в водопроводе и так далее. Некоторые Вублины считают, что был бы у Пиксолотля замок, по которому он мог бы гулять, он бы угомонился.. но, увы, никаких замков на Острове Вублинов нет.
 
 Monsters/Monster_bonapetite=Приятнога-Петита
-Monsters/Monster_bonapetite_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bonapetite_awake=<ref>Monsters/Monster_bonapetite
-Monsters/Monster_bonapetite_awake_bio=Данные отсутствуют. Приходите позже.
 Monsters/Bonapetite=Приятнога-Петита
 Monsters/Bonapetite_bio=Какие-то музыканты стучат по клавишам, а вот Приятнога-Петита любит постучать по рёбрам. Или, точнее, он любит, когда стучат по нему - в зависимости от того, о каком из перкуссионистов мы говорим. По правде говоря, эти организмы - симбиоты, каждый из которых в равной степени отвечает за качающий ритм, разукрашенный мощными басами. Этот дуэт состоит из двух монстров, которых друзья-Вублины нежно зовут "Приятнога" и "Петита". Малыш-Петита раскачивает стены грудной клетки, а большая Приятнога постоянно ворчит про несварение желудка.
 
@@ -1352,140 +897,70 @@ Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
 Monsters/Monster_maulch_awake_bio=Мульча, Монотонный Бормотун, возможно, не тот, кого вы ожидали увидеть, активируя каменную статую, но кто знает! Его Большой Папролист на голове требует обильного полива, и нигде не бывает дождя, лучше чем здесь, как он утвержает. Правда никто ни разу не видел здесь никакого дождя, но это не имеет значения... 
 
 Monsters/Monster_fleechwurm=Червеугодник
-Monsters/Monster_fleechwurm_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fleechwurm_awake=<ref>Monsters/Monster_fleechwurm
-Monsters/Monster_fleechwurm_awake_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fleechwurm_undof=<ref>Monsters/Monster_fleechwurm
 Monsters/Monster_fleechwurm_undof_bio=Неизвестный скульптор тщательно поработал над статуей этого Вублина, уделив внимание мельчайшим деталям. Осталось только вдохнуть в неё жизнь! Не помещай статую в инкубатор. Положи в неё яйца монстров, выведенный на других островах, и энергия Электричества пробудит этого Вублина.
 Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm
 Monsters/Monster_fleechwurm_undof_awake_bio=Некоторые монстры используют уникальную форму тела или свои особенности не только для музыки. Внутренняя полость Червеугодника хорошо резонирует, а ещё способна издавать свист, которым он гипнотизирует других Вублинов. Так он может заставить других делать за него скучную работу или ухаживать за его тонкими листоподобными лапками. Некоторые Вублины более устойчивы к этому эффекту и в шутливой форме предупреждают Червеугодника, что так поступать нехорошо.
 Monsters/Monster_fleechwurm_rare_undof=Редкий Червеугодник
-Monsters/Monster_fleechwurm_rare_undof_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_meduza=Медузза Визгона
-Monsters/Monster_meduza_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_meduza_awake=<ref>Monsters/Monster_meduza
-Monsters/Monster_meduza_awake_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Небожители)))
 Monsters/Monster_hornacle=Трубяпцы
 Monsters/Monster_hornacle_bio=Древние легенды рассказывают о какофонии, которая длилась эпохи. И всё же от этого первобытного лязга волна гармонии вздулась, достигла гребня и разбилась о пустоту, слившись в безмятежное море благозвучия и звёздного света. Так образовался Живой Океан. Далекое мерцание Слёз Океана, отражающееся в его мерцающей поверхности, перекликается с триумфальной песней Небесных Трубяпцев, возвещая век музыки - предвестник хороших новостей и еще лучших грувов.
-Monsters/Monster_hornacle_young=Юные Трубяпцы
-Monsters/Monster_hornacle_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_hornacle_adult=Взрослые Трубяпцы
-Monsters/Monster_hornacle_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_furnoss=Камелёг
 Monsters/Monster_furnoss_bio=Говорят, что Камелёг был выкован в Живом Ядре Огня, а затем выброшен к звездам наверху в результате доисторического извержения. Оказавшись в небе, он с рёвом ожил, разбрасывая искры и заливая светом мир внизу. Обладая тлеющим терпением, расплавленным сердцем и обжигающей мудростью, он является символическим очагом, вокруг которого собираются все Огнерожденные. С пылающей душой и сердцем в рукаве, Камелёг зажигает пламя вдохновения, ведя своих пламенных товарищей по группе в горении песни и неугасимой радости.
-Monsters/Monster_furnoss_young=Юный Камелёг
-Monsters/Monster_furnoss_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_furnoss_adult=Взрослый Камелёг
-Monsters/Monster_furnoss_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_glaishur=Ледник
 Monsters/Monster_glaishur_bio=Он воплощение «крутости» с самым тёплым сердцем, какое только можно вообразить — такова природа Ледника. Среди слияния ледяных кристаллов, гравитации и холодных вибраций этот морозный бегемот впервые проявился и стал таким же непоколебимым и невозмутимым, как сам космос. Считается, что выражение «трезвые умы возобладают» произошло от этого Монстра, известного своей способностью разрешать споры между своими собратьями-Небожителями. Своим гортанным пением, резонирующим по всей вселенной, Ледник бьёт в барабаны, отмечая медленное — поистине ледяное — течение времени.
-Monsters/Monster_glaishur_young=Юный Ледник
-Monsters/Monster_glaishur_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_glaishur_adult=Взрослый Ледник
-Monsters/Monster_glaishur_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_blasoom=Фагоцвести
 Monsters/Monster_blasoom_bio=Фагоцвести пророс к жизни из первой космической пыли - разрастаясь, распускаясь, закладывая корни и бороздки для всего, что рождено Растением. Идеи чистейшего воображения и возможностей можно найти на внутренней стене его величественного головного убора, если только у кого-то хватило смелости заглянуть внутрь. Этот Небожитель служит для перекрёстного опыления вибраций и грувов по всему Миру Монстров, одновременно усиливая его вечное послание: выйти из спячки и расцвести в впечатляющем изобилии песен, синхронности и фотосинтеза.
-Monsters/Monster_blasoom_young=Юный Фагоцвести
-Monsters/Monster_blasoom_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_blasoom_adult=Взрослый Фагоцвести
-Monsters/Monster_blasoom_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_syncopite=Синкопит
 Monsters/Monster_syncopite_bio=Синкопит родился в результате сейсмического события, во время которого молчание изначальной космической тишины стало таким тяжелым, что он рухнул под собственной тяжестью и сжался в плотную светящуюся массу. Синкопит откололся от этого небесного целого - живой мегалит Кристалла и камня, взрывающийся и исчезающий в ударном торжестве музыки и жизни. Его кристаллическое ядро ​​и каменистая поверхность отражают, втягивают и поглощают астральные канавки, сохраняя ритм Мира Монстров.
-Monsters/Monster_syncopite_young=Юный Синкопит
-Monsters/Monster_syncopite_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_syncopite_adult=Взрослый Синкопит
-Monsters/Monster_syncopite_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_vhamp=Латальщик
 Monsters/Monster_vhamp_bio=После эонов, проведенных в качестве разумной, хотя и бестелесной массы энергии, Латальщик наконец собрался воедино – в буквальном смысле – и сконструировал свою собственную физическую форму из случайных обломков, разбросанных по вселенной. Более собранный, чем самореализованный, Латальщик, тем не менее, стремится раскрыть свое истинное "я" посредством музыкальных экспериментов и целенаправленной саморефлексии. Благодаря своим трубам, шестерням, сильфонам и рычагам Латальщик представляет собой необыкновенную совокупность основных деталей, работающих в сложной гармонии. Он демонстрирует устойчивый темп, плавную динамику воздушного потока и шаткую подвеску.
-Monsters/Monster_vhamp_young=Юный Латальщик
-Monsters/Monster_vhamp_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_vhamp_adult=Взрослый Латальщик
-Monsters/Monster_vhamp_adult_bio=Данные отсутствуют. Приходите позже.
+
 
 Monsters/Monster_galvana=Гальвана
 Monsters/Monster_galvana_bio=Ежегодно небесный цикл повторяется заново, и последним монстром цикла является электрическая Гальвана. Могущественный и нетронутый, этот громоподобный небожитель руководит своим совершенным пантеоном, одновременно сочиняя сложные крещендо! Стало известно, что Гальвана даже обладает силой искры жизни в своей волшебной сфере. Она является популярным и очень почитаемым небожителем от Летучего Города до границ самых дальних миров...
-Monsters/Monster_galvana_young=Юная Гальвана
-Monsters/Monster_galvana_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_galvana_adult=Взрослая Гальвана
-Monsters/Monster_galvana_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_scaratar=Скараситар
 Monsters/Monster_scaratar_bio=Скараситар - изначальный галактический гуру: фундаментальное дитя цветка, которое, несмотря на свое небесное происхождение, является ядовитым созвездием, тем не менее, является противоядием от плохих вибраций и дисгармонии повсюду. С его вдохновляющими, потусторонними звуковыми эффектами, разносящимися по всему космосу, он призывает всех Ядовитых Элементалов общаться друг с другом и собираться в гармонии с другими.
-Monsters/Monster_scaratar_young=Юный Скараситар
-Monsters/Monster_scaratar_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_scaratar_adult=Взрослый Скараситар
-Monsters/Monster_scaratar_adult_bio=Данные отсутствуют. Приходите позже.
 Monsters/Scaratar=Скараситар
 Monsters/Scaratar_bio=Скараситару больше не нужно класть свой фирменный инструмент на землю, Скараситар привередливо насыщает дерево специальными токсинами, которые превращают его в более богато украшенную версию. В этом возрасте Небожитель Яда, возможно, слишком озабочен тем, что поверхностность является показателем качества, и часто зацикливается на полировке своего инструмента, а не на отработке арпеджио.
 
 Monsters/Monster_loodvigg=Людвиг
 Monsters/Monster_loodvigg_bio=Тень проявилась, пугающий и непостижимый Людвиг исполняет свой грандиозный опус, прославляя тонкое взаимодействие тени и света. С изящными перепончатыми пальцами, занесенными высоко над прекрасным клавиром, каждый мощный удар по клавишам вызывает рябь по всему Миру Монстров. Его гипнотическое влияние ощущают все рожденные в Тени, которые обнаруживают, что тоскуют по месту, которого они никогда не знали - и все же каким-то образом знали все это время.
-Monsters/Monster_loodvigg_young=Юный Людвиг
-Monsters/Monster_loodvigg_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_loodvigg_adult=Взрослый Людвиг
-Monsters/Monster_loodvigg_adult_bio=Данные отсутствуют. Приходите позже.
-Monsters/Loodvigg=Людвиг
+Monsters/Loodvigg=Взрослый Людвиг
 Monsters/Loodvigg_bio=Возможно, это вызвано каким-то скрытым чувством бунтарства, или, может быть, это было просто время для перемен, но взрослый Людвиг принял полную противоположность Тени - Свет! Он прививает блестящие драгоценные камни к зубцам своей клавиатуры, причёсывает волосы, манжеты и воротник и отдает приоритет ярким и ярким расцветкам в своём музыкальном исполнении.
 
 Monsters/Monster_torrt=Черебарабан
 Monsters/Monster_torrt_bio=Привлеченный из пределов Земного Созвездия, Черебарабан измеряет время на всю вечность. Этот Монстр повторяет биение сердца каждого Земляного Элементаля, удерживая каждого из них в своих мирах и душах. Его панцирь защищает его от какофонии космоса, даже когда он усиливает свой собственный нескончаемый ритм, передавая земным потомкам бесконечность земли.
-Monsters/Monster_torrt_young=Юный Черебарабан
-Monsters/Monster_torrt_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_torrt_adult=Взрослый Черебарабан
-Monsters/Monster_torrt_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_plixie=Пликси
-Monsters/Monster_plixie_bio=
-Monsters/Monster_plixie_young=Юный Пликси
-Monsters/Monster_plixie_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_plixie_adult=Взрослый Пликси
-Monsters/Monster_plixie_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_attmoz=Атмоз
 Monsters/Monster_attmoz_bio=Точно так же, как воздух еще не виден, но уже отчетливо ощущается, так и влияние Аттмоза невидимо, но остро ощущается всеми Элементалями Воздуха по всему Миру Монстров. Как воплощение самого Воздуха, этот мистический маэстро бренчит на подпространственных звуковых струнах, призывая всех рожденных присоединиться к волнующему, благозвучному джем-сейшену. Несмотря на его монокулярное зрение и однобровность. Песня Атмоза, несомненно, доступна в стерео формате.
-Monsters/Monster_attmoz_young=Юный Атмоз
-Monsters/Monster_attmoz_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_attmoz_adult=Взрослый Атмоз
-Monsters/Monster_attmoz_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_psychic=Талактик
 Monsters/Monster_psychic_bio=Будучи Псионическим Сверхънебожителем, Талактик является воплощением интеллекта, что легко заметить по его весьма "мозговитому" телу. Как глубокий мыслитель, он нашёл своё место в Летучем Городе вместе с другими Супернебожителями, чтобы следовать по их пути.
-Monsters/Monster_psychic_young=Юный Талактик
-Monsters/Monster_psychic_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_psychic_adult=Взрослый Талактик
-Monsters/Monster_psychic_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_bone=Амонитерий
 Monsters/Monster_bone_bio=В далёкой стране, рождённое из слезы умирающей звезды, уникальное существо правило этими землями... Так начинается любимая история очаровательного Амонитерия. Будучи настоящим мастером ролевых игр, этот шумный монстр обожает играть в выдумку, придумывая всевозможные предыстории и создавая забавные костюмы. Хотя его собственное происхождение остаётся загадкой, он может лишь воображать, как был создан. Но в одном можно быть уверенным: каждая кость, которая станет частью его великолепно наряженного тела, обязательно войдёт в историю личности Амонитерия!
-Monsters/Monster_bone_young=Юный Амонитерий
-Monsters/Monster_bone_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_bone_adult=Взрослый Амонитерий
-Monsters/Monster_bone_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_faerie=Кордимошка
 Monsters/Monster_faerie_bio=Если ты думаешь, что в этом скучном мире тебя уже ничем не удивить, просто взгляни на Кордимошку! Серьёзно, я понятия не имею, что это вообще такое. Только не размахивай волшебной палочкой, пока оно поёт!
-
 Совсем не по теме, но Кордимошка также является вторым талисманом Hacked Landscapes!
-Monsters/Monster_faerie_young=Юная Кордимошка
-Monsters/Monster_faerie_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_faerie_adult=Взрослая Кордимошка
-Monsters/Monster_faerie_adult_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_light=Фосфор-несса
 Monsters/Monster_light_bio=Какая нелепость! Длинношеяя Фосфор-несса поистине странное существо с впечатляюще длинной шеей и длинными ногами... Или это всё-таки руки? Никто не знает наверняка, даже сама Фосфор-несса; эта лиловая легенда просто называет их руками! Когда она не размышляет о собственном существовании, её любимые занятия это вязать носки для своей шеи, постоянно спотыкаться буквально обо всё подряд и с огромным энтузиазмом играть на своих лирологах, несмотря на собственную неуклюжесть. Она всегда старается не порвать струны, ведь они были вручную изготовлены другим монстром-вязальщиком из далёких земель.
-Monsters/Monster_light_young=Юная Фосфор-несса
-Monsters/Monster_light_young_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_light_adult=Взрослая Фосфор-несса
-Monsters/Monster_light_adult_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Дипстеры)))
@@ -1517,7 +992,7 @@ Monsters/Monster_dipster_7_bio=<ref>DipstersBio
 Monsters/Monster_jobo=Джодль
 Monsters/Monster_jobo_bio=Будучи подслащённым Словуном, Джодль знает многое о Исполине Острова Конфет, ведь ему известно, как тот был создан. Кроме того, Джодль знает предпочтения каждого монстра на острове и даже заранее знал, когда прибудет Джем Всборе.
 Monsters/Monster_treble=Итэнор
-Monsters/Monster_treble_bio=отя у него нет ничего общего с Исполином Острова Конфет, у него всё же есть некая "связь" с Джодлем! Благодаря своему цвету, напоминающему сахарную вату, и любви к розовой еде неудивительно, что этот монстр захотел бы жить здесь. На самом деле он очень похож на ПомПом, хотя никто не знает почему.
+Monsters/Monster_treble_bio=Хотя у него нет ничего общего с Исполином Острова Конфет, у него всё же есть некая "связь" с Джодлем! Благодаря своему цвету, напоминающему сахарную вату, и любви к розовой еде неудивительно, что этот монстр захотел бы жить здесь. На самом деле он очень похож на ПомПом, хотя никто не знает почему.
 Итэнор всё ещё пытается выяснить, куда ещё может привести Карманное Измерение. Все, кого он встречал в известных землях, готовы помочь ему найти путь, но Вужас не рассказывает ни единой душе... Что ж, похоже, пора снова отправляться на поиски приключений!
 
 
@@ -1530,72 +1005,53 @@ Monsters/Monster_gumtromp_rare_bio=С виду самый обычный мон�
 Monsters/Monster_gobstomper=Конфетамень
 Monsters/Monster_gobstomper_bio=Говорят, что Конфетамни самые крепкие из всех конфетных монстров. Их многослойные оболочки способны выдержать самые высокие падения и самые сильные удары без единой трещинки. Несмотря на это, характер Конфетамней больше напоминает их мягкую и тягучую сердцевину. Они всегда готовы помочь на Острове Конфет и везде, куда бы ни отправились. И всё же время от времени в них просыпается дух соперничества, и тогда они устраивают дружеские соревнования со своими упрямыми друзьями, выясняя, чья корочка окажется самой прочной.
 Monsters/Monster_gobstomper_rare=Редкий Конфетамень
-Monsters/Monster_gobstomper_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_koodahcane=Кондинец
 Monsters/Monster_koodahcane_bio=Сладкие рога Кондинцов любимы всеми обитателями Конфетного Острова. Весь сахар, содержащийся в крови этих чешуйчатых рыб, накапливается на вершине их головы и растёт подобно волосам. Когда его становится слишком много, примерно раз в месяц, эти наполненные сахарозой черепные трости отпадают и остаются разбросанными по острову, где их собирают как сладкое лакомство.
 Monsters/Monster_koodahcane_rare=Редкий Кондинец
-Monsters/Monster_koodahcane_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_marshflamo=Маршпламя
 Monsters/Monster_marshflamo_bio=Маршпламени считаются одними из самых добросердечных монстров, в буквальном смысле, ведь внутри них находится расплавленная, тягучая маршмеллоу-сердцевина! По мере взросления они проходят через стремительный жизненный цикл: их внутренний жар постепенно поджаривает их до идеального состояния, пока они не затвердевают и не вспыхивают пламенем. Их крошащаяся чёрная оболочка осыпается, открывая сияющий новый облик, чистый и лёгкий, словно облако. Будучи жителями недавно возникшего сладкого убежища в Карманном Измерении, появившегося после катастрофы, уничтожившей Мир Монстров, Маршпламени помогают защищать своих собратьев и рассказывают жуткие истории у неизменно тёплого костра.
 Monsters/Monster_marshflamo_rare=Редкое Маршпламя
-Monsters/Monster_marshflamo_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_keytrus=Клавельсин
 Monsters/Monster_keytrus_bio=В отличие от своего неожиданно близкого родственника, Кондинеца, Клавельсин сильно отличается от остальных конфетных монстров тем, что он совершенно несъедобен! Из-за этого Клавельсины часто рыщут по поверхности Исполина Сластённа в поисках кислых сладостей и деликатесов. Эта любовь к сладкому, или, скорее, к кислому, удовлетворяется только дискообразными фруктами, растущими в бороде Исполина. Используя специальные когти на концах своих конечностей, обычно скрытые под похожими на листья перьями, Клавельсин разрезает плод пополам, открывая четыре дольки мякоти. По ним можно постукивать, создавая чудесный и причудливый звук "тинк!". Другие монстры называют эти плоды Дискус-Фруктами. На самом деле они вовсе не кислые, но Клавельсин об этом не знает... и не стоит портить ему удовольствие.
 Monsters/Monster_keytrus_rare=Редкий Клавельсин
-Monsters/Monster_keytrus_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_brasscuit=Трубаченье
 Monsters/Monster_brasscuit_bio=Легенда гласит, что давным-давно общий предок Трубаченья и Стегобаки оказался на Конфетном Острове. Поначалу новая среда была слишком суровой для пришельца, но благодаря своему трудолюбивому характеру он смог приспособиться и преодолеть все трудности. Со временем этот вид постепенно превратился в того Трубаченья, которого мы знаем сегодня!
 Его акустические рожки сделаны собственноручно и сшиты из самой прочной лакрицы, какую только можно найти на острове. Трубаченьи настоящие мастера поиска еды и способны учуять вкусное лакомство с другого конца острова.
 Monsters/Monster_brasscuit_rare=Редкое Трубаченье
-Monsters/Monster_brasscuit_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_claramel=Кларамель
 Monsters/Monster_claramel_bio=Вечно сверкающий Кларамель известен своим карамелизированным обликом и игривыми мелодиями. Но таким он был не всегда. Когда-то Кларамель находился в жидком состоянии, обжигающем и липком. Однако однажды он встретил Зелынку, и эта встреча вдохновила его! Кларамель прикрепил к своему хвосту самодельные коричные трубочки и начал неустанно тренироваться. Со временем потоки ветра, проходящие через них, заморозили его тело, превратив его в кристаллизованный всплеск карамели. Благодаря этому необычному облику он стал ещё более запоминающимся и любимым среди монстров.
 Monsters/Monster_claramel_rare=Редкая Кларамель
-Monsters/Monster_claramel_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_sprinklate=Торторог
 Monsters/Monster_sprinklate_bio=Будучи вкусным лидером команды Острова Конфет, Торторог известен практически каждому его обитателю. Он обожает организовывать различные мероприятия на острове, является энергичным членом островной стражи и всегда внимательно следит за происходящим вокруг. Хотя Торторог одинаково ценит всех своих друзей, в его сердце есть особое место для одного собрата-кекса, который навещает его всего раз в год.
 Monsters/Monster_sprinklate_rare=Редкий Торторог
-Monsters/Monster_sprinklate_rare_bio=Данные отсутствуют. Приходите позже.
-
 
 (((Органические)))
 Monsters/Monster_handmond=Безъобраз
-Monsters/Monster_handmond_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_handmond_rare=Редкий Безъобраз
-Monsters/Monster_handmond_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_whimstlop=Свистель
 Monsters/Monster_whimstlop_bio=Что происходит внутри Свистеля - загадка. А то, что находится снаружи этого пассивного монстра, - это всего лишь доспехи. А "шлем" с возрастом они сбрасывают и отрастает новый, но побольше. Его органические аспекты скрыты под металлической оболочкой, и единственное что мы можем увидеть - это один глаз (а другой - Свистель потерял) и две похожие на веточки ноги (удивительно сильные, учитывая то, на сколько тяжела броня). В зависимости от окружения, Свистель может носить броню из другого материала, чтобы соответствовать своим текущим потребностям. Иногда они подрабатывают некими "пылесосами" чтобы убирать грязь, которую за собой приносят другие приятели-монстры.
 Monsters/Monster_whimstlop_rare=Свистель
-Monsters/Monster_whimstlop_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_whimstlop_meduza=Свистель
-Monsters/Monster_whimstlop_meduza_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_sakurra=Сакурра
-Monsters/Monster_sakurra_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sakurra_rare=Редкая Сакурра
-Monsters/Monster_sakurra_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_maxillaphone=Максиллафон
-Monsters/Monster_maxillaphone_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_maxillaphone_rare=Редкий Максиллафон
-Monsters/Monster_maxillaphone_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_synthfly=Синтолёт
 Monsters/Monster_synthfly_bio=Синтлаз начинала как самый обычный Магический монстр: могла левитировать, читать мысли и делать всё в таком духе. Однако со временем ей понравилось совершать преступления, кража личности, воровство и многое другое. Чтобы перестать попадать в тюрьму и начать новую жизнь, она создала себе новую личность под именем Синтолёт, получив дополнительные элементы и лишившись элемента Воздуха. Теперь новый дом Синтолёта находится на Терре Органов, где она создаёт музыку вместе со своими собратьями-органиками.
 Monsters/Monster_synthfly_rare=Редкий Синтолёт
-Monsters/Monster_synthfly_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_rosele=Розель
-Monsters/Monster_rosele_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_rosele_rare=Редкий Розель
-Monsters/Monster_rosele_rare_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Неуверены)))
@@ -1605,14 +1061,11 @@ Monsters/Knott_1_rare=Редкое Дерево Неуверен
 Monsters/Knott_1_rare_bio=Благодаря зеленому, похожему на стебель стволу Редкого Дерева Неуверен, который раздобыл один из БууУу, оно выработало запах, отпугивающий нимф. Это защитило их от мелких пакостников, гадких резчиков по дереву. Однако свежевыведенный аромат по чистой случайности оказался химически похож на феромоны порховок. И надо же было такому случиться: запах привлек еще более докучливых вредителей. Короче говоря, теперь это гнездо порховок.
 
 Monsters/Knott_2=Бай
-Monsters/Knott_2_bio=Данные отсутствуют. Приходите позже.
 Monsters/Knott_2_rare=Редкий Бай
-Monsters/Knott_2_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_3=Сосуд Дууш
 Monsters/Knott_3_bio="ДУУШИ" - совокупность злых и мстительных духов, которые жаждут выбраться на свободу в мир монстров. Главная задача по их содержанию заключается в том, чтобы они находились в надежных руках. Ну или руке в данном случае. Непреклонные пальцы хранителя и неизмеримая сила делают его идеально подходящими для такой работы, но даже ему трудно порой поддерживать неугомонных Дууш. Возможно вы зададите вопрос, почему же они такие злые? Увы, никто не знает...
 Monsters/Knott_3_rare=Редкий Сосуд Дууш
-Monsters/Knott_3_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_4=БуУуу
 Monsters/Knott_4_bio=Все те, кто родом из Тумповселенной, хорошо разбираются в практике межпространственных прыжков, и БуУуу не исключение. Сбежав из бескрайних глубин своего бывшего дома, БуУуу отправился в долгое и масштабное путешествие в поисках нового. В конце концов, он нашел странную гору, глубоко под Серебряными Утёсами, которая излучала странную ауру, резонировавшую с БуУуу. Остановившись для исследования, наш тумп наконец осознал что здесь и находится его новый дом, который он искал тысячелетия! Однако, магия острова очень сильно повлияла на него. И без помощи местных материалов разум БуУуу помутняется и он не сможет музицировать…
@@ -1625,39 +1078,29 @@ Monsters/Knott_5_rare=Редкая Гора Туцпик
 Monsters/Knott_5_rare_bio=В отличие от Гор Туцпиков, к которым мы привыкли, эти особые разновидности обладают множеством уникальных черт лица на каждой из своих голов. Каждая из них полна эмоций и индивидуальности. Ходит легенда, что самый большой из них был создан по образу монстра, не являющегося уроженцем ни одного из Миров Монстров. Как любопытно...
 
 Monsters/Knott_6=Гораотвод
-Monsters/Knott_6_bio=Данные отсутствуют. Приходите позже.
 Monsters/Knott_6_rare=Редкий Гораотвод
-Monsters/Knott_6_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_7=Пушинкас
 Monsters/Knott_7_bio="Шинк! Шинк!" можно услышать всякий раз, когда этот монстр находится поблизости. Пушинкасы - это, по сути своей шерстяные мешки, наполненные костями, скреплёнными вместе с помощью магии и пластырей. Череп этого жизнерадостного маракасиста каким-то образом оброс шерстью с функционирующими ушами и глазами. Вдобавок к этому, у Пушинкаса развилось особое 8 чувство! Оно позволяет ему ощущать присутствие других костей издалека и легко идентифицировать их типы и тех кому они принадлежат. Также монстр может определить тип повреждения кости, давая другим советы в случае несчастного происшествия.
 Monsters/Knott_7_rare=Редкий Пушинкас
-Monsters/Knott_7_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_8=Клеомолот
-Monsters/Knott_8_bio=Данные отсутствуют. Приходите позже.
 Monsters/Knott_8_rare=Редкий Клеомолот
-Monsters/Knott_8_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_9=Бабушка Неувязья
 Monsters/Knott_9_bio=Познакомьтесь с самым дружелюбным монстром в Затерянном мире. Это пожилая Бабушка Неувязья - существо, которое способно заботится о любом виде монстров, какие только существуют. Она использует свои навыки вязания, чтобы содержать "внучков" в тепле и благополучии, и обычно бабуля никогда не упускает их из виду. Большинству представителей этого вида уже несколько тысячелетий, и кажется, они совсем визуально не меняются после достижения рубежа в 80 лет. Несмотря на всё это, есть экземпляры, у которых было трагическое прошлое, и с тех пор они так и не восстановились... Такие монстры, как правило, более агрессивны по отношению ко всем окружающим.
 Monsters/Knott_9_rare=Редкая Бабушка Неувязья
-Monsters/Knott_9_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_10=Морозёв
-Monsters/Knott_10_bio=Данные отсутствуют. Приходите позже.
 Monsters/Knott_10_rare=Редкий Морозёв
-Monsters/Knott_10_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Knott_special=Крохорнет
-Monsters/Knott_special_bio=Данные отсутствуют. Приходите позже.
 Monsters/Knott_special_rare=Редкий Крохорнет
-Monsters/Knott_special_rare_bio=Данные отсутствуют. Приходите позже.
 
 
 (((Гамма-Монстры)))
 Monsters/Monster_tweedleGM=Клюшалоб
-Monsters/Monster_tweedleGM_bio=Это Клюшалоб. Чем же он примечательен? Он невероятно уязвим, особенно если его задеть за чувства - хотя никто даже не знает, есть ли у них вообще какие-то чувства, ведь они толком не умеют говорить по-английски. "ХА! Попался? Нет? Эх, ну ладно..." - примерно это Клюшалоб повторяет постоянно (в переводе с монструозного языка). Также, скрытность - это вообще не про них, они совершенно не умеют подкрадываться. Клюшалобы - пожалуй, самые загадочные монстры... Да шучу я! На самом деле людям удалось хорошенько их рассмотреть и выяснить, что они — потомки Легптицы, ну или, если точнее, его очень-очень-очень-очень дальние родственники!
+Monsters/Monster_tweedleGM_bio=Это Клюшалоб. Чем же он примечателен? Он невероятно уязвим, особенно если его задеть за чувства - хотя никто даже не знает, есть ли у них вообще какие-то чувства, ведь они толком не умеют говорить по-английски. "ХА! Попался? Нет? Эх, ну ладно..." - примерно это Клюшалоб повторяет постоянно (в переводе с монструозного языка). Также, скрытность - это вообще не про них, они совершенно не умеют подкрадываться. Клюшалобы - пожалуй, самые загадочные монстры... Да шучу я! На самом деле людям удалось хорошенько их рассмотреть и выяснить, что они — потомки Легптицы, ну или, если точнее, его очень-очень-очень-очень дальние родственники!
 
 Monsters/Monster_potbellyGM=Ламигалия
 Monsters/Monster_potbellyGM_bio=После странных событий, из-за которых руины Мира Монстров были перенесены в измерение за пределами пространства и времени, знакомые нам острова превратились в Гамма-Острова, а их обитатели переродились в поразительно новые формы. Одним из таких примеров является Ламигалия, преобразованный Элементаль Растения, который очаровывает своей мечтательной натурой и покоряет самой тёплой улыбкой. Эти каменные монстры обладают способностью наделять растения жизненной силой, оживляя самую разную флору и даруя ей возможность говорить и петь. Такие ростки часто обладают необычными и уникальными голосами, результатом того, что они впервые открывают в себе певческие способности.
@@ -1669,7 +1112,6 @@ Monsters/Monster_olga=Осьмидудка
 Monsters/Monster_olga_bio=Отправленные в Хроническую Пустоту, монстры были охвачены Водной Стихией Хыдреда, которая поглотила всю материю и преобразовала их в новые сущности, создав таких существ, как добрая и мягкая Осьмидудка. После трансформации они засияли люминесцентным светом и обрели способность управлять Водой. Объединившись, они стали защитниками пустоты, а их движения начали отражать ритмы космических приливов. Через водные потоки они координируют завораживающую симфонию, принося новое равновесие на Гамма-Остров Воды и в руины Мира Монстров.
 
 Monsters/Monster_dandidooGM=иТара
-Monsters/Monster_dandidooGM_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_tabicrab=Табикраб
 Monsters/Monster_tabicrab_bio=*Щёлк*, *клац*, *щёлк*, *клац*... вы же слышите? Это звуки Табикраба! У него ОГРОМНЫЕ клешни - настолько большие, что он мог бы стать настоящим хищником в дикой природе! Впрочем, Табикрабы - существа мирные; они никому не причинят вреда, если только их как-нибудь не спровоцировать. Никто не знает, откуда они взялись и как вообще появились на свет, но одно известно наверняка: они унаследовали гены Пропеборга и сбежали со своих родных островов в поисках "свободы" и "славы". На деле же они просто отправились на Гамма-Остров Воды. Вот такой он, Табикраб.
@@ -1678,48 +1120,34 @@ Monsters/Monster_quibbleGM=Спручик
 Monsters/Monster_quibbleGM_bio=Что ж... Похоже, в ДНК Клавмных заложена склонность превращаться в странное существо всякий раз, когда его каким-либо образом модифицируют. Подобно давно вымершим монстрам, таким как Эпическим и Призматическим Клавмным, нечто в элементальном ядре этого монстра заставило его превратиться в... это. Не беспокойтесь, похоже, это состояние не причиняет ему особой боли, и он всё ещё любит петь... Или это крик? Нет, это не крик. Мы так думаем.
 
 Monsters/Monster_shrubbGM=Улов-рес
-Monsters/Monster_shrubbGM_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_oaktopusGM=Китовой
-Monsters/Monster_oaktopusGM_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_fwogGM=Цлизень
 Monsters/Monster_fwogGM_bio=Цлизни - скажем так, "неопределенные" монстры (я это походу уже в третий раз говорю), появившиеся из Лягашки - тот в которую очередь появился из прапрапрапрадеда Криста. Видите ли, как только появился Цлизень, весь мир начал рушиться - просто потому, что Кристу он показался уродливым. Не то чтобы все остальные были такими же на самом деле, но большинство монстров называют его "уродливым". Черт, даже Бас-машина однажды назвала его уродливым - в тот момент, когда пыталась заниматься тем, что у нее получается лучше всего, то есть... создавать ноты? Не знаю. Впрочем, неважно. Цлизни к тому же очень дружелюбны - настолько, что монстры могут легко взять их под свой контроль и заставить делать всё, что им вздумается (если только Цлизням каким-то чудом не удастся вырваться). Погодите-ка, это что, был конкурс на самую едкую насмешку?
 
 Monsters/Monster_reedlingGM=Зелынка*
-Monsters/Monster_reedlingGM_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_spungeGM=Вывдунь
-Monsters/Monster_spungeGM_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_scupsGM=Лапага*
-Monsters/Monster_scupsGM_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_pummelGM=Бороуабдап
-Monsters/Monster_pummelGM_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_shellbeatGM=Доскович
-Monsters/Monster_shellbeatGM_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_shellbeatGM=Досгальщик
 
 Monsters/Monster_jeeodeGM=Благъобраз
-Monsters/Monster_jeeodeGM_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_blabbitGM=Пузаяц*
-Monsters/Monster_blabbitGM_bio=Данные отсутствуют. Приходите позже.
-
 
 (((Гости)))
-
 
 Monsters/Special/Monster_melochness=Гармонесси
 Monsters/Special/Monster_melochness_bio=Рожденные в Зачарованных прудах Дремучих лесов, Гармонесси - очень любопытные существа. Как и большинство обитателей  Лесов Фей, существование этого монстра сильно связано с Туманом Флоры. Хотя мы до сих пор точно не знаем, как это работает, но туман, кажется, придаёт Гармонесси сил чтобы издавать мелодичные звуки, которые разноятся повсюду. Её чарующую мелодию можно услышать через весь лес, благодаря туману Флоры. На самом деле, это было первое, что услышали природные монстры, когда они прибыли в Дремучий лес. Также говорят, что у Гармонесси есть общий родственник с Зелынкой и Пузайцем. ..... Чего? Как ты получил этого монстра? Кхм... Прошу прощения. "Магическое Расширение" не является каноном. По крайней мере для TLL. - Мр. Маг Ширин.
 
 Monsters/Special/Monster_truccus=Резинкин
-Monsters/Special/Monster_truccus_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Special/Monster_gnostrell=Носопырка
-Monsters/Special/Monster_gnostrell_bio=Данные отсутствуют. Приходите позже.
-
 
 (((Другое)))
 Monsters/Monster_percFrog=Амфиритм
@@ -1734,19 +1162,16 @@ Decoration/Decoration_test=Древо Клавиш
 Decoration/Decoration_test_bio=Древо Клавиш это деревянное воплощение причудливости и музыки. Хотя оно не способно играть само, как древняя Басовая Машина, пророчества гласят, что если ветер подует как надо, Древо Клавиш исполнит песню, которую не слышали со времён зарождения самой реальности.
 
 Decoration/Decoration_test1=Болтливая Редька
-Decoration/Decoration_test1_bio=А
 
 Decoration/Decoration_test2=Смолистое Дерево
 Decoration/Decoration_test2_bio=Эти изящные деревья покрыты смолой. Но кто это сделал? Всё просто, они сами! Смолистые деревья способны вырабатывать смолу прямо из своих листьев. Эта смола известна тем, что ловит мелких существ, осмелившихся погрызть их зелёную крону. Другие монстры собирают смолу Смолистого дерева, чтобы извлекать из неё сахар и готовить вкусные лакомства, а ещё поливать ею огромные стопки блинчиков!
 
 Decoration/Decoration_test3=Дерево Дууш
-Decoration/Decoration_test3_bio=А
 
 Decoration/Decoration_test4=Фонтан Комка
 Decoration/Decoration_test4_bio=Эта зачарованная статуя служит неиссякаемым источником свежей воды для монстров. И это настоящее благо, ведь в наши дни большая часть воды загрязнена.
 
 Decoration/Decoration_test5=Цветущая Кость
-Decoration/Decoration_test5_bio=А
 
 Decoration/Decoration_test6=Тюлпан Жонглер
 Decoration/Decoration_test6_bio=На первый взгляд его легко принять за монстра. Но на самом деле это всего лишь растение, которое умеет жонглировать чем угодно. В основном глазными яблоками.
@@ -1764,10 +1189,8 @@ Decoration/Decoration_test10=Балуни
 Decoration/Decoration_test10_bio=Его называют "заменителем друга". Одинокие монстры приходят к Балуни в любое время и делятся с ним своими историями. Когда-то этот "друг" свободно летал по миру монстров, исследуя его просторы. Но однажды он застрял между двумя камнями, и ему ничего не осталось, кроме как безмятежно покачиваться из стороны в сторону. Никто не знает, кто создал Балуни, но ходят слухи, что он немного напоминает своего создателя. Кто знает, может быть, однажды мы с ним встретимся.
 
 Decoration/Decoration_test11=Дерево Кровоцвет
-Decoration/Decoration_test11_bio=А
 
 Decoration/Decoration_test12=Король
-Decoration/Decoration_test12_bio=А
 
 Decoration/Decoration_knott=Гора Неуверен
 Decoration/Decoration_knott_bio=Внешне похожая на мифический Вкусочек горы, Гора неуверен сделана из пузыристой стружки, склеенной слюнной смесью. Несмотря на искусственное происхождение, гора обрела жизнь. Чего ещё ожидать от магии мира монстров?
@@ -2001,7 +1424,6 @@ Structures/Structure_crafter=Создаватель
 Structures/Structure_crafter_bio=Создаватель это странное устройство! Попробуйте различные рецепты, чтобы создавать новые вкусности и полезные предметы!
 
 Structures/Structure_masher=Измельчитель
-Structures/Structure_masher_bio=Данные отсутствуют. Приходите позже.
 
 Structures/Structure_timemachine=Машина времени
 Structures/Structure_timemachine_bio=Эта странная и необычная конструкция способна искривлять время! Используйте ползунок, чтобы замедлить или ускорить музыку.
@@ -2024,14 +1446,10 @@ Structures/Structure_knottmaker1_bio=Хм... Что же это за стран�
 
 Соберите на острове необходимые ресурсы, чтобы это выяснить!
 Structures/Structure_knottmaker2=Восстановленный Амальгаметор
-Structures/Structure_knottmaker2_bio=Данные отсутствуют. Приходите позже.
 Structures/Structure_knottmaker3=Амальгаметор
-Structures/Structure_knottmaker3_bio=Данные отсутствуют. Приходите позже.
 Structures/Structure_knottmaker4=Улучшенный Амальгаметор
-Structures/Structure_knottmaker4_bio=Данные отсутствуют. Приходите позже.
 
 Structures/Structure_stargazer=Обсерватория
-Structures/Structure_stargazer_bio=Данные отсутствуют. Приходите позже.
 
 
 
@@ -2191,7 +1609,7 @@ str_class_Supernatural-r=Сверхъестественный (Редкий)
 str_class_Celestial=Небожитель
 str_class_Celestial-s=Сверхънебожитель
 str_class_Dipster=Дипстер
-str_class_Dipster-r=Дипстер (Редкий)
+str_class_Dipster-r=Дипстер (Элементальный)
 str_class_Legendary=Легендарный
 str_class_Legendary-r=Легендарный (Редкий)
 str_class_Lost=Заблудший
@@ -2573,3 +1991,22 @@ Decoration/Decoration_sign_water_bio=<ref>SignBio
 Decoration/Decoration_sign_empty_bio=<ref>SignBio
 Decoration/Decoration_sign_bone_bio=<ref>SignBio
 
+str_island_composer=Остров Мелодиста
+Monsters/composer/Monster_potbelly_composer=Брюшок
+Monsters/composer/Monster_toejammer_composer=Палезатор
+Monsters/composer/Monster_tweedle_composer=Легптица
+Monsters/composer/Monster_flootfly_composer=Мухофлейт
+Monsters/composer/Monster_choral_composer=Хоррал
+Monsters/composer/Monster_likho_composer=Урыло
+Monsters/composer/Monster_wadee_composer=Вади-Ной
+Monsters/composer/Monster_quibble_composer=Клавмный
+Monsters/composer/Monster_stoopa_composer=Ступа
+Monsters/composer/Monster_oaktopus_composer=Осьмидуб
+Monsters/composer/Monster_spunge_composer=Гупка
+Monsters/Monster_wibbler=Коробас
+Monsters/Knott_11=Хаивв
+Monsters/Monster_handmond_new=Безъобраз
+str_island_Minigame_YapLeap=Урыльный Рывок
+str_island_Minigame_Thumpies=Тумпы
+str_island_Minigame_SimonSays=Саймон Говорит
+str_island_Minigame_Osstacker=Столпадчик
