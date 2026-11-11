@@ -50,6 +50,14 @@ Wubbox_rare Candy
 Monsters/Monster_kayna_rare_undof 1
 Monsters/Monster_noggin_rare_undof 1
 Monsters/Monster_gumtromp_rare 1
+
+Monsters/Monster_keytrus_rare 1
+Monsters/Monster_koodahcane_rare 1
+Monsters/Monster_marshflamo_rare 1
+Monsters/Monster_brasscuit_rare 1
+Monsters/Monster_gobstomper_rare 1
+Monsters/Monster_claramel_rare 1
+Monsters/Monster_sprinklate_rare 1
 ;
 Wheezel Organs
 Monsters/Monster_handmond_new 1
