@@ -285,7 +285,7 @@ Monsters/Monster_claramel_rare=Rare Claramel
 Monsters/Monster_claramel_rare_bio=Rare Claramel bio
 
 Monsters/Monster_dandidoo_rare=Rare Dandidoo
-Monsters/Monster_dandidoo_rare_bio=Rare Dandiduo bio
+Monsters/Monster_dandidoo_rare_bio=Unlike the two minds of its distant Quibble relative, the Rare Dandidoo is only governed by a single intelligence, albeit split between two heads. If one peers closely enough, ideas and thoughts can actually be witnessed hopping between the Monster's cerulean Dandiflorets.
 
 Monsters/Monster_cranile=Cranile
 Monsters/Monster_cranile_bio=This gem-ladden double elemental sees no fear - in fact it can barely see a thing at all! Relying on its trusty “see-pickles” for much of its still quite limited  vision and hearing, the Cranile is a wacky creature. When not erratically stomping around, they’re often seen racing against nobody at all, or devouring rocks. It’s like Handmond - it genuinely doesn’t feel like it needs lengthening past that.
@@ -321,7 +321,7 @@ Monsters/Monster_fwogGM=Thlugg
 Monsters/Monster_fwogGM_bio=Thluggs are quite...well, 'unspecified' monsters (is this the third time I'm saying this), formed from within Kryst's grand-grand-grand-grand-ancestor, Fwog. You see, after Thlugg was formed - the whole world started collapsing from how ugly Kryst thought it was. Not that it IS actually ugly, however most monsters call it "ugly", hell, even the Bass Machine called it ugly once because it tried doing whatever it does the best, which is doing....notes? I dunno. Moving on, Thlugg is also very friendly, so friendly and naive that EVIL!!!! monsters can take control of them and make them do anything they want, unless they get off the hook somehow. This was just a roasting competition, wasn't it?
 
 Monsters/Monster_potbelly_rare=Rare Potbelly
-Monsters/Monster_potbelly_rare_bio=Rare Potbelly bio
+Monsters/Monster_potbelly_rare_bio=Can you spot the Rare Potbelly?... No seriously, those weights are pretty heavy, and it needs a spotter. This monster is focused on self-improvement wherever possible, which sets it apart from the common variety that is more than happy to remain weak and soft.
 
 Monsters/Monster_dipster_1_new=Do
 Monsters/Monster_dipster_1_new_bio=<ref>DipsterBio
