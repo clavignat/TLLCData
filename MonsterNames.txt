@@ -2081,3 +2081,10 @@ Sirana
 Finnth
 Depf
 ;
+Monsters/Monster_sakurra
+Saku
+Bowy
+Saaaaah
+Flowa
+Dae
+;
