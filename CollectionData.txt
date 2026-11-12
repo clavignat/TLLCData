@@ -282,7 +282,6 @@ Monsters/Congle
 Monsters/Gnarls
 Monsters/Krillby
 Monsters/Pladdie
-Monsters/Buzzinga
 Monsters/Shlep
 Monsters/Buzzinga
 Monsters/Scaratar
