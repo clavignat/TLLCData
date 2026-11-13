@@ -3,6 +3,7 @@ EM:
 Monsters/Monster_toejammer 85
 Monsters/Monster_toejammer_rare 85 _rare
 Monsters/Monster_potbelly 85
+Monsters/Monster_potbelly_rare 85 _rare
 Monsters/Monster_tweedle 85
 Monsters/Monster_flootfly 70
 Monsters/Monster_oaktopus 70
