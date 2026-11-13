@@ -94,6 +94,8 @@ Monsters/Monster_clamble 50
 
 Monsters/Monster_whimstlop=Monsters/Monster_handmond_new+Monsters/Monster_cybop 40
 Monsters/Monster_whimstlop=Monsters/Monster_handmond+Monsters/Monster_cybop 40
+
+Monsters/Monster_sakurra=Monsters/Monster_handmond+Monsters/Monster_boskus 45
 ;
 Candy:
 Monsters/Monster_toejammer_undof 85

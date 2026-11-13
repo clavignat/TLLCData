@@ -3,6 +3,7 @@ EM:
 Monsters/Monster_toejammer
 Monsters/Monster_toejammer_rare
 Monsters/Monster_potbelly
+Monsters/Monster_potbelly_rare
 Monsters/Monster_tweedle
 Monsters/Monster_flootfly
 Monsters/Monster_oaktopus
@@ -150,6 +151,7 @@ Monsters/Monster_whimstlop
 Monsters/Monster_shellbeat
 Monsters/Monster_cranile
 Monsters/Monster_synthfly
+Monsters/Monster_sakurra
 Monsters/Monster_schmoochle
 Monsters/Monster_plixie
 Monsters/Monster_reebro

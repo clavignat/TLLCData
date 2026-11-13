@@ -30,6 +30,7 @@ Monsters/Special/Monster_melochness
 -
 monster_rares:
 Monsters/Monster_toejammer_rare
+Monsters/Monster_potbelly_rare
 Monsters/Monster_oaktopus_rare
 Monsters/Monster_quibble_rare
 Monsters/Monster_varrow_rare
@@ -415,6 +416,7 @@ Monsters/Monster_clamble
 Monsters/Monster_shellbeat
 Monsters/Monster_cranile Vortex=2
 Monsters/Monster_synthfly Vortex=1
+Monsters/Monster_sakurra
 Monsters/Monster_schmoochle
 Monsters/Monster_plixie diamonds=5000
 Monsters/Monster_reebro
