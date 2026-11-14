@@ -17,6 +17,7 @@ Drummi
 T-Amongus
 Markusima.msm
 Gallium
+KirbyMaster2005
 
 <Title>str_credits_concept
 Danudaeye
@@ -41,4 +42,14 @@ lenchitos
 Falak
 егорегорегорегорегорегорегорегорегорегорегорегор
 
+<Title>str_credits_bioContest
+epicnebulobfan
+Spike the mike
+WIN_GT
+Silly Peashooter
+SergGames72
+Comfy / MSM
+Composure Hate Prime
+Hymeko
+meloni
 

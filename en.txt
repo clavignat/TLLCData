@@ -116,7 +116,7 @@ Monsters/Monster_knucklehead_bio=The burly mitts of a matured Knucklehead may be
 Monsters/Monster_osstax=Osstax
 Monsters/Monster_osstax_bio=Not unlike other species in the Monster World, Osstax begins as disparate individuals who find each other and join together to make a whole greater than the sum of its parts. This can be a tricky process, though, as it's important for the individual beings to fit together perfectly, both physically and as a kinship group. The bottom Osstak is generally understood to be the leader and most important of the three, although there have been exceptions. The bony enamel of their exteriors, matched with the intricacy of their chambered interiors, produce a haunting wheeze that is identifiable across the entire Sanctum.
 Monsters/Monster_cybop=Cybop
-Monsters/Monster_cybop_bio=Much more than mere gizmos, Cybops are deep thinkers, and vibrantly alive. Occasionally, Cybops need reminders that attempting to scavenge the body parts of other Monsters for personal repair is not socially acceptable.
+Monsters/Monster_cybop_bio=For a Monster famous for trying to steal spare body parts to fix itself, landing on the Terra of Organs felt like a dream come true. At first, Cybop got a little too excited looking at all the giant veins and organs, so the other Monsters had to strictly remind it that the island is off-limits for spare parts! Luckily, the warm air and fluids of the island keep its rusty gears and propeller running smoothly anyway. Now, instead of looking for upgrades, Cybop just hovers around and sings its robotic tune right along with the island's giant heartbeat.
 
 #TLLPS#
 Monsters/Monster_quibble_rare=Rare Quibble
@@ -154,11 +154,12 @@ Monsters/composer/Monster_spunge_composer_bio=Spunge bio
 Monsters/Monster_yool_young=Young Yool
 Monsters/Monster_yool_young_bio=Something that has fascinated both monsters and researchers alike, is the Young Yool's remarkably long beard! Functioning almost as an extra appendage, they utilise this "Yeard" of theirs to reach high up on the Yay Tree, perfect for placing the tree-topper without the help of a grown-up. Unfortunately for them, this beard does not grow along with age, leading many Adult Yools to try and grow out their fur to recapture those childhood memories. Ah, the good ol' days...
 Monsters/Monster_jeeode_young=Young Jeeode
-Monsters/Monster_jeeode_young_bio=Young Jeeode Bio
+Monsters/Monster_jeeode_young_bio=Ah, the Young Jeeode! As it has just hatched, it is a wise idea to try and keep your distance. You may ask why, and the answer is very interesting - they are very vulnerable, one small push and they crumble, because as you know, Ethereals can be quite unstable! So after they've just hatched... they MAY be as strong as glass, but do be aware however that it is a quite long wait to have them be able to move around with the other monsterlings! They are also naturally social creatures, so try and have them talk to others from a short distance once in a while when you're waiting!
 Monsters/Monster_brump_young=Young Brump
 Monsters/Monster_brump_young_bio=Young Brump Bio
 Monsters/Monster_wibbler_young=Young Wubbox
-Monsters/Monster_wibbler_young_bio=Young Wubbox Bio
+Monsters/Monster_wibbler_young_bio=Before growing into a giant powerhouse of electricity, the Young Wubbox is basically a tiny, curious toy with way too much energy! Living high up in the Floating City, it loves exploring the grassy islands and trying to copy the moves of the other young Monsters around it. Since its core isn't fully charged yet, it sometimes stumbles over its own oversized hands or lets out silly 8-bit beeps instead of heavy dubstep drops. After a long day of buzzing around with excitement, it powers down for a well-deserved nap.
+
 Monsters/Monster_wibbler=Wubbox
 
 Decoration/Decoration_sign_air=Air Sign
@@ -221,12 +222,12 @@ Monsters/Monster_tannout_rare_undof=Rare Tannout
 Monsters/Monster_tannout_rare_undof_bio=Rare Tannout bio
 
 Monsters/Monster_eyesing_undof=Eyesing
-Monsters/Monster_eyesing_undof_bio=Eyesing bio
+Monsters/Monster_eyesing_undof_bio=The wonderful Eyesing is merely the icing on the cake for their great debut on Candy Island! The Eyesing creates soft hums and moans to create a nice tune for the monsters of the same island of sweets. They're a large monster that shares no simularities to any other monsters on the island no matter what anyone might tell you. Eyesing, however, likes to stand alone with few monsters around it, yet can bare being around others of its kind you mostly see them alone and thriving! Please be gentle with the icing giant as the frosting on its head protects its sweet jelly brain similar to that of a Floodbud, the icing is this though so be careful!
 Monsters/Monster_eyesing_rare_undof=Rare Eyesing
 Monsters/Monster_eyesing_rare_undof_bio=Rare Eyesing bio
 
 Monsters/Monster_oraghoul_undof=Oraghoul
-Monsters/Monster_oraghoul_undof_bio=Oraghoul bio
+Monsters/Monster_oraghoul_undof_bio=As Oraghoul roams through portals and also finds itself lost between these portals, forcing it to survive on the escenses of the rift, it is unknown what they do in there. However, when they come out of the rift they do say they have seen some...questionable things, for example - a Handmond with skin, Mammott without eyes and a Furcorn with multiple arms! And even worse, it's monochromatic essence coming out of portals as they gain arms, however they have a strict limit of teleportation. Once, it has went to <MISSING_demented_dream_island_str> by accident after the eighth or nineth time, and yet they stayed there for a while, without realizing the danger of it. The orbs that float around Oraghoul come from the mentioned rift, as Oraghoul collects them to keep it sane making little jingles and chimes for its mind to enjoy.
 Monsters/Monster_oraghoul_rare_undof=Rare Oraghoul
 Monsters/Monster_oraghoul_rare_undof_bio=Rare Oraghoul bio
 
@@ -246,7 +247,7 @@ Monsters/Monster_salasine_rare_undof=Rare Salasine
 Monsters/Monster_salasine_rare_undof_bio=Rare Salasine bio
 
 Monsters/Monster_floodbud_undof=Floodbud
-Monsters/Monster_floodbud_undof_bio=Floodbud bio
+Monsters/Monster_floodbud_undof_bio=A jellyfish out of water may seem like an unlikely sight, but on Candy Island, it's a regular occurance! When a Floodbud exits its oceanic habitat, its body adapts to living on land, such as the tentacles turning into legs that it can use to walk! And also, don't worry about it not having any eyes; it can taste its surroundings, thanks to the edible sweetness of the Candy Island terrain!
 Monsters/Monster_floodbud_rare_undof=Rare Floodbud
 Monsters/Monster_floodbud_rare_undof_bio=Rare Floodbud bio
 
@@ -261,7 +262,7 @@ Monsters/Monster_wicka_rare_undof=Rare Wicka
 Monsters/Monster_wicka_rare_undof_bio=Rare Wicka bio
 
 Monsters/Monster_sprinklate_rare=Rare Sprinklate
-Monsters/Monster_sprinklate_rare_bio=Rare Sprinklate bio
+Monsters/Monster_sprinklate_rare_bio=Much like its common cousin, Rare Sprinklate has a close affinity with a certain Anniversary Seasonal, the Jam Boree, so much so that at times, it even tries to go bipedal just like the Seasonal Monster when playing, even trying to 'hand'stand when the initial idea doesn't work. But due to its quite heavy and tall cake shell, most impressively decorated, it can't seem to perfect its form.
 
 Monsters/Monster_knife_rare=Rare Banchi
 Monsters/Monster_knife_rare_bio=Rare Banchi bio
@@ -270,13 +271,13 @@ Monsters/Monster_gobstomper_rare=Rare Gobstomper
 Monsters/Monster_gobstomper_rare_bio=Rare Gobstomper bio
 
 Monsters/Monster_keytrus_rare=Rare Keytrus
-Monsters/Monster_keytrus_rare_bio=Rare Keytrus bio
+Monsters/Monster_keytrus_rare_bio=Rare Keytrus' are quite different from their common counterpart, ranging from extra citric limes, and having a sour gummy worm coating! While a Common Keytrus spends its time singing along the Candy Island song, Rares tend to look for tasty and citric limes to play! Now, you might be wondering how they got that coating. In reality, behind Swiitzenzör, the Candy Island Titan, lies a extra sour paradise!
 
 Monsters/Monster_marshflamo_rare=Rare Marshflamo
 Monsters/Monster_marshflamo_rare_bio=Rare Marshflamo bio
 
 Monsters/Monster_brasscuit_rare=Rare Brasscuit
-Monsters/Monster_brasscuit_rare_bio=Rare Brasscuit bio
+Monsters/Monster_brasscuit_rare_bio=Oh, how the tables have turned!... on their sidе, that is, especially if said table wasn't actually a table, but the accidental creation that is Rare Brasscuit! Alot of Monsters kept noticing how it was almost made sideways on accident, yet on perpose at the same time! One day as the Island residents were preparing for the yearly arrival of the Anniversary Seasonal Monster, a Common Brasscuit was carrying horn decorations it planned to adorn for the ocasion, though, an accident closeby caused one of the giant donuts the Monsters were preparing for a feast to tumble off the table right in the direction of the unsuspecting Brasscuit. This whole freak of events caused the donut to get impaled by the custom horns the Brasscuit was planning to put on, and caused it to wake up! At the time, they didn't know it, but the donut was not like any of the treats placed around the island, but actually alive!
 
 Monsters/Monster_koodahcane_rare=Rare Koodahcane
 Monsters/Monster_koodahcane_rare_bio=Rare Koodahcane bio
@@ -364,7 +365,7 @@ Monsters/Monster_tiawa_bio=Proven as a keen leader, the Tiawa’s very presence 
 Monsters/Monster_bisonorus=Bisonorus
 Monsters/Monster_bisonorus_bio=	It takes TWO to tango, and in this case it takes TWO to sing as well. Together since birth, these Fire Monsters have a great knack for communication (usually one telling the other what TWO do). With the diminutive Emperor Bisonorus atop the burly Standard Bisonorus, they are unstoppably fearless - except that one time when the latter had to crisis-manage the former's dignity after an unusual wardrobe malfunction involving some possibly imaginary clothes. With each supporting the other, they always seem to have can-TWO attitudes.
 Monsters/Monster_shellbeat=Shellbeat
-Monsters/Monster_shellbeat_bio=Shellbeats are naturally shy and like to keep hidden away in their shells. When they are woken up by their neighbors' loud singing they tend to loosen up, come out of their shell, and play along as best they can with their aquatic drum set. Shellbeats have gotten pretty good at playing lately.
+Monsters/Monster_shellbeat_bio=Far from the waters of Water Island, Shellbeat had no trouble getting used to the pulsing landscape of the Terra of Organs. The giant heartbeat echoing under its tentacles gave this percussionist the exact rhythm it needed to feel right at home. Its drum kit works surprisingly well in the island's warm fluids, letting it keep the beat going strong. When it needs a break from drumming, Shellbeat just tucks itself inside its shell to relax and feel the vibrations of its new home.
 
 #MARSH FANMADES#
 Monsters/Monster_likho=Yap
@@ -476,7 +477,7 @@ Monsters/Monster_spunge_rare=Rare Spunge
 Monsters/Monster_spunge_rare_bio=The dry-eyed Rare Spunge is a fascinating example of the adaptations that environment based mutations can bring about. Seeming to stem from particularly composed waters, mutations through this wacky spunge have changed almost everything about this Spunge, from its color to the amount of each organ it has. Some even suspect it may have a second mouth inside of its body. Ew. Just Ew. 
 
 Monsters/Monster_percFrog=Amphibeat
-Monsters/Monster_percFrog_bio=Amphibeat is a frog. A literal frog, with bricks. It doesn't even sing.
+Monsters/Monster_percFrog_bio=Amphibeats are frogs with massive bricks instead of legs. Amphibeats usually eat flies, infact, insects are their favorite food! These guys stink in a way that distracts flies, which is the reason why Amphibeats are never hungry. Other monsters cannot stand next to an Amphibeat cause of their awful smell. Amphibeats stink, that's it.
 
 Monsters/Monster_phangler_rare=Rare Phangler
 Monsters/Monster_phangler_rare_bio=Glub Glub Glub. The Rare Phangler ate a little too much mud from the bottom of the marsh waters, and its tail fell off. Luckily it had extra in its pockets, so it stuck those on and used them as arms!
@@ -1334,6 +1335,7 @@ str_credits_writing=Writing:
 str_credits_trans_rus=Russian Translation:
 str_credits_trans_pr=Portuguese Translation:
 str_credits_thanks=Special Thanks:
+str_credits_bioContest=Monster bio contest participants:
 str_credits_cityContest=Contest Winners:
 
 

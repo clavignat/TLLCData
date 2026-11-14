@@ -1110,7 +1110,7 @@ BigCake
 Doug
 Stallberry
 ;
-Monsters/Monster_jamboree_undof,Monsters/Monster_jamboree
+Monsters/Monster_jamboree_undof,Monsters/Monster_jamboree,Monsters/Monster_eyesing_undof
 Jamie
 Candela
 Fieker
@@ -1123,7 +1123,7 @@ Vasdeldt
 Wurdood
 ZeeDine
 ;
-Monsters/Monster_ghazt_undof,Monsters/Monster_ghazt
+Monsters/Monster_ghazt_undof,Monsters/Monster_ghazt,Monsters/Monster_oraghoul_undof
 Gataria
 Aethuri-awl
 Ailura
@@ -1850,7 +1850,7 @@ Priszum
 Kazak
 Stan
 ;
-Monsters/Monster_jeeode_young
+Monsters/Monster_jeeode_young,Monsters/Monster_jeeode
 Ekko
 Gandy
 Glazz
@@ -1861,7 +1861,7 @@ Teresa
 Vernee
 Vooga
 ;
-Monsters/Monster_yool_young
+Monsters/Monster_yool_young,Monsters/Monster_yool
 Bombur
 Burrrg
 Feliz
@@ -1870,7 +1870,7 @@ Groodolph
 Jollee
 Kringle
 ;
-Monsters/Monster_brump_young
+Monsters/Monster_brump_young,Monsters/Monster_brump
 Heeve
 Hoest
 Orri
@@ -1956,6 +1956,23 @@ Tuptip
 Tworboh
 Uaithed
 Walles
+;
+Monsters/Monster_brasscuit_rare
+Bold n' Brass
+Brassy
+Bassbell
+Brooooov
+Dough
+Doh'!
+Nutmix
+;
+Monsters/Monster_sprinklate_rare
+Birthday Boy
+Glazy
+Creeme
+Fourwinged
+Low&High
+Figuremess
 ;
 Monsters/Monster_cranile
 Zeta
