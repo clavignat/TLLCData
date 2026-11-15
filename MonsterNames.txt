@@ -2148,7 +2148,7 @@ Diane
 Bueno
 Markastuk
 ;
-Monsters/Monster_stogg_rare
+Monsters/Monster_stogg_rare_undof
 Awckyoolus
 Eyeriss
 Fohtoh
