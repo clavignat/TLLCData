@@ -1445,6 +1445,14 @@ Monsters/Monster_schmoochle_young_bio=Young Schmoochle Bio
 Monsters/Monster_banno_new=Banno
 Monsters/Monster_banno_new_bio=<ref>Monsters/Monster_banno_bio
 
+Monsters/Monster_banjaw=Banjaw
+Monsters/Monster_banjaw_bio=Banjaw bio
+
+Monsters/Monster_blipsqueak=Blipsqueak
+Monsters/Monster_blipsqueak_bio=<ref>WublinStatueBio
+Monsters/Monster_blipsqueak_awake=<ref>Monsters/Monster_blipsqueak
+Monsters/Monster_blipsqueak_awake_bio=Blipsqueak bio
+
 #BAY#
 
 Monsters/Monster_jawewolf=Jawewolf
