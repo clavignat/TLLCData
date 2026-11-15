@@ -2125,3 +2125,26 @@ EhgzHamm
 FlimmFlamm
 DandiDuo
 ;
+Monsters/Monster_blipsqueak
+Allie
+Columel
+Cooklear
+Distul
+Dorsumm
+Eustace
+Eyeris
+;
+Monsters/Monster_banjaw
+Akilleez
+Dooel
+Jamstring
+Kartoolage
+Ligamenta
+;
+Monsters/Monster_pummelGM
+Wabby Dabby
+Wubbubunga
+Diane
+Bueno
+Markastuk
+;
