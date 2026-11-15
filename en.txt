@@ -738,6 +738,9 @@ Monsters/Monster_phangler_undof_bio=Phanglers are destined for a life in the lim
 Monsters/Monster_stogg_undof=Stogg
 Monsters/Monster_stogg_undof_bio=As avid rock collectors, Stoggs relish digging into the earth with their powerful forelegs to find shiny new minerals. Unfortunately, this absentminded monster also enjoys burying their treasure, often forgetting the location soon after.
 
+Monsters/Monster_stogg_rare_undof=Rare Stogg
+Monsters/Monster_stogg_rare_undof_bio=What does the all-seeing Rare Stogg perceive with those glorious peepers, you may ask? A shining symphony of sound waves and light, more beautiful than anything its Common cousins could imagine. In an effort to share its experience, Rare Stoggs have taken to creating abstract illustrations using bioluminescent paints.
+
 Monsters/Monster_gumtromp=Gumtromp
 Monsters/Monster_gumtromp_bio=A sweet demeanored treat, the adorable Gumtromp parades around the monster world, giving inspirational speeches on how... candy is actually good for you and how the toothbrush mafia is out to get everyone. Yikes. But besides that, this marmalade monster loves to help its friends and caters plenty of sweets for events of any size. What a sugary delight! 
 

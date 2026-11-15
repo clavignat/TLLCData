@@ -2147,4 +2147,11 @@ Wubbubunga
 Diane
 Bueno
 Markastuk
+;
+Monsters/Monster_stogg_rare
+Awckyoolus
+Eyeriss
+Fohtoh
+Geckosaurus
+Knee Yonnn
 
