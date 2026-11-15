@@ -86,5 +86,11 @@ Monsters/Monster_arackulele 1
 Monsters/Monster_punkleton 1
 Monsters/Monster_ffydill 1
 Monsters/Monster_deedge 1
-
+;
+Blipsqueak Organs
+Monsters/Monster_cybop 2
+Monsters/Monster_handmond_new 3
+Monsters/Monster_sakurra 1
+Monsters/Monster_clamble 2
+Monsters/Monster_shellbeat 1
 
