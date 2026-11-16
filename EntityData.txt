@@ -101,6 +101,8 @@ Monsters/Monster_frondley_young diamonds=750 faerie@psychic@light 64800 7 coins=
 Monsters/Monster_gloptic_young diamonds=1000 psychic@water@fire@plant 100800 10 coins=10@60@coins=400 Magical gloptic,gloptic_young 4 0
 Monsters/Monster_drummidary_young diamonds=1500 fire@plant@cold@air@earth 130800 10 coins=15@60@coins=700 Natural drummidary,drummidary_young 4 0
 
+Monsters/Monster_gloptic diamonds=1000 psychic@water@fire@plant 115200 30 coins=15@60@coins=25207 Magical gloptic,gloptic 0 0
+
 Monsters/Monster_punkleton_young diamonds=1000 S0 43200 25 coins=1@28@coins=400 Seasonal punkleton,punkleton_young 10 0
 Monsters/Monster_yool_young diamonds=1000 S1 43200 25 coins=1@28@coins=400 Seasonal yool,yool_young 10 0
 Monsters/Monster_jeeode_young diamonds=1000 crystal 43200 25 coins=1@28@coins=400 Ethereal jeeode,jeeode_young 10 0

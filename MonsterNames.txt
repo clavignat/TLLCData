@@ -2154,4 +2154,11 @@ Eyeriss
 Fohtoh
 Geckosaurus
 Knee Yonnn
-
+;
+Monsters/Monster_gloptic
+Dulslymer
+Glarp
+Goopert
+Hypnooze
+Myookus
+Noooodle
